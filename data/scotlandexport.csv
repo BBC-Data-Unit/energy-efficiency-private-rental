@@ -1,0 +1,1914 @@
+insp_yr,CURRENT_ENERGY_RATING,LOCAL_AUTHORITY_LABEL,tenureclean,certs_count
+2022,A,,rental (private),5
+2022,B,,rental (private),222
+2022,C,,rental (private),140
+2022,D,,rental (private),15
+2022,B,Aberdeen City,rental (private),161
+2022,C,Aberdeen City,rental (private),677
+2022,D,Aberdeen City,rental (private),454
+2022,E,Aberdeen City,rental (private),88
+2022,F,Aberdeen City,rental (private),38
+2022,G,Aberdeen City,rental (private),3
+2022,A,Aberdeenshire,rental (private),16
+2022,B,Aberdeenshire,rental (private),36
+2022,C,Aberdeenshire,rental (private),192
+2022,D,Aberdeenshire,rental (private),177
+2022,E,Aberdeenshire,rental (private),116
+2022,F,Aberdeenshire,rental (private),78
+2022,G,Aberdeenshire,rental (private),14
+2022,B,Angus,rental (private),13
+2022,C,Angus,rental (private),152
+2022,D,Angus,rental (private),112
+2022,E,Angus,rental (private),82
+2022,F,Angus,rental (private),21
+2022,G,Angus,rental (private),13
+2022,B,Argyll and Bute,rental (private),4
+2022,C,Argyll and Bute,rental (private),165
+2022,D,Argyll and Bute,rental (private),204
+2022,E,Argyll and Bute,rental (private),131
+2022,F,Argyll and Bute,rental (private),81
+2022,G,Argyll and Bute,rental (private),25
+2022,B,Clackmannanshire ,rental (private),4
+2022,C,Clackmannanshire ,rental (private),79
+2022,D,Clackmannanshire ,rental (private),43
+2022,E,Clackmannanshire ,rental (private),6
+2022,A,Dumfries and Galloway,rental (private),1
+2022,B,Dumfries and Galloway,rental (private),12
+2022,C,Dumfries and Galloway,rental (private),205
+2022,D,Dumfries and Galloway,rental (private),306
+2022,E,Dumfries and Galloway,rental (private),278
+2022,F,Dumfries and Galloway,rental (private),120
+2022,G,Dumfries and Galloway,rental (private),24
+2022,B,Dundee City,rental (private),34
+2022,C,Dundee City,rental (private),500
+2022,D,Dundee City,rental (private),301
+2022,E,Dundee City,rental (private),90
+2022,F,Dundee City,rental (private),16
+2022,G,Dundee City,rental (private),3
+2022,B,East Ayrshire,rental (private),8
+2022,C,East Ayrshire,rental (private),190
+2022,D,East Ayrshire,rental (private),138
+2022,E,East Ayrshire,rental (private),22
+2022,F,East Ayrshire,rental (private),7
+2022,G,East Ayrshire,rental (private),3
+2022,B,East Dunbartonshire,rental (private),2
+2022,C,East Dunbartonshire,rental (private),59
+2022,D,East Dunbartonshire,rental (private),35
+2022,E,East Dunbartonshire,rental (private),5
+2022,F,East Dunbartonshire,rental (private),1
+2022,B,East Lothian,rental (private),9
+2022,C,East Lothian,rental (private),96
+2022,D,East Lothian,rental (private),70
+2022,E,East Lothian,rental (private),47
+2022,F,East Lothian,rental (private),15
+2022,G,East Lothian,rental (private),4
+2022,B,East Renfrewshire,rental (private),3
+2022,C,East Renfrewshire,rental (private),59
+2022,D,East Renfrewshire,rental (private),50
+2022,E,East Renfrewshire,rental (private),7
+2022,F,East Renfrewshire,rental (private),3
+2022,G,East Renfrewshire,rental (private),1
+2022,A,Edinburgh City,rental (private),1
+2022,B,Edinburgh City,rental (private),193
+2022,C,Edinburgh City,rental (private),1645
+2022,D,Edinburgh City,rental (private),788
+2022,E,Edinburgh City,rental (private),177
+2022,F,Edinburgh City,rental (private),32
+2022,G,Edinburgh City,rental (private),3
+2022,A,Eilean Siar,rental (private),1
+2022,B,Eilean Siar,rental (private),5
+2022,C,Eilean Siar,rental (private),24
+2022,D,Eilean Siar,rental (private),30
+2022,E,Eilean Siar,rental (private),31
+2022,F,Eilean Siar,rental (private),21
+2022,G,Eilean Siar,rental (private),10
+2022,B,Falkirk,rental (private),8
+2022,C,Falkirk,rental (private),124
+2022,D,Falkirk,rental (private),60
+2022,E,Falkirk,rental (private),22
+2022,F,Falkirk,rental (private),2
+2022,G,Falkirk,rental (private),3
+2022,A,Fife,rental (private),4
+2022,B,Fife,rental (private),28
+2022,C,Fife,rental (private),509
+2022,D,Fife,rental (private),443
+2022,E,Fife,rental (private),112
+2022,F,Fife,rental (private),33
+2022,G,Fife,rental (private),8
+2022,A,Glasgow City,rental (private),1
+2022,B,Glasgow City,rental (private),186
+2022,C,Glasgow City,rental (private),1505
+2022,D,Glasgow City,rental (private),660
+2022,E,Glasgow City,rental (private),145
+2022,F,Glasgow City,rental (private),39
+2022,G,Glasgow City,rental (private),12
+2022,A,Highland,rental (private),4
+2022,B,Highland,rental (private),39
+2022,C,Highland,rental (private),388
+2022,D,Highland,rental (private),504
+2022,E,Highland,rental (private),316
+2022,F,Highland,rental (private),182
+2022,G,Highland,rental (private),52
+2022,B,Inverclyde,rental (private),1
+2022,C,Inverclyde,rental (private),86
+2022,D,Inverclyde,rental (private),41
+2022,E,Inverclyde,rental (private),15
+2022,F,Inverclyde,rental (private),1
+2022,B,Midlothian,rental (private),7
+2022,C,Midlothian,rental (private),77
+2022,D,Midlothian,rental (private),47
+2022,E,Midlothian,rental (private),11
+2022,F,Midlothian,rental (private),6
+2022,G,Midlothian,rental (private),1
+2022,B,Moray,rental (private),4
+2022,C,Moray,rental (private),79
+2022,D,Moray,rental (private),98
+2022,E,Moray,rental (private),65
+2022,F,Moray,rental (private),49
+2022,G,Moray,rental (private),9
+2022,A,North Ayrshire,rental (private),3
+2022,B,North Ayrshire,rental (private),8
+2022,C,North Ayrshire,rental (private),165
+2022,D,North Ayrshire,rental (private),136
+2022,E,North Ayrshire,rental (private),40
+2022,F,North Ayrshire,rental (private),27
+2022,G,North Ayrshire,rental (private),6
+2022,B,North Lanarkshire,rental (private),20
+2022,C,North Lanarkshire,rental (private),270
+2022,D,North Lanarkshire,rental (private),159
+2022,E,North Lanarkshire,rental (private),68
+2022,F,North Lanarkshire,rental (private),13
+2022,G,North Lanarkshire,rental (private),2
+2022,A,Orkney Islands,rental (private),7
+2022,B,Orkney Islands,rental (private),5
+2022,C,Orkney Islands,rental (private),35
+2022,D,Orkney Islands,rental (private),68
+2022,E,Orkney Islands,rental (private),37
+2022,F,Orkney Islands,rental (private),15
+2022,G,Orkney Islands,rental (private),4
+2022,A,Perth and Kinross,rental (private),2
+2022,B,Perth and Kinross,rental (private),22
+2022,C,Perth and Kinross,rental (private),234
+2022,D,Perth and Kinross,rental (private),277
+2022,E,Perth and Kinross,rental (private),165
+2022,F,Perth and Kinross,rental (private),68
+2022,G,Perth and Kinross,rental (private),20
+2022,B,Renfrewshire,rental (private),35
+2022,C,Renfrewshire,rental (private),384
+2022,D,Renfrewshire,rental (private),195
+2022,E,Renfrewshire,rental (private),30
+2022,F,Renfrewshire,rental (private),14
+2022,G,Renfrewshire,rental (private),2
+2022,A,Scottish Borders,rental (private),1
+2022,B,Scottish Borders,rental (private),8
+2022,C,Scottish Borders,rental (private),98
+2022,D,Scottish Borders,rental (private),133
+2022,E,Scottish Borders,rental (private),128
+2022,F,Scottish Borders,rental (private),76
+2022,G,Scottish Borders,rental (private),23
+2022,A,Shetland Islands,rental (private),2
+2022,C,Shetland Islands,rental (private),15
+2022,D,Shetland Islands,rental (private),22
+2022,E,Shetland Islands,rental (private),15
+2022,F,Shetland Islands,rental (private),7
+2022,B,South Ayrshire,rental (private),8
+2022,C,South Ayrshire,rental (private),136
+2022,D,South Ayrshire,rental (private),138
+2022,E,South Ayrshire,rental (private),54
+2022,F,South Ayrshire,rental (private),29
+2022,G,South Ayrshire,rental (private),8
+2022,B,South Lanarkshire,rental (private),27
+2022,C,South Lanarkshire,rental (private),266
+2022,D,South Lanarkshire,rental (private),178
+2022,E,South Lanarkshire,rental (private),50
+2022,F,South Lanarkshire,rental (private),25
+2022,G,South Lanarkshire,rental (private),7
+2022,B,Stirling,rental (private),15
+2022,C,Stirling,rental (private),139
+2022,D,Stirling,rental (private),97
+2022,E,Stirling,rental (private),36
+2022,F,Stirling,rental (private),12
+2022,G,Stirling,rental (private),4
+2022,B,West Dunbartonshire,rental (private),9
+2022,C,West Dunbartonshire,rental (private),56
+2022,D,West Dunbartonshire,rental (private),31
+2022,E,West Dunbartonshire,rental (private),14
+2022,F,West Dunbartonshire,rental (private),6
+2022,G,West Dunbartonshire,rental (private),1
+2022,B,West Lothian,rental (private),23
+2022,C,West Lothian,rental (private),237
+2022,D,West Lothian,rental (private),91
+2022,E,West Lothian,rental (private),16
+2022,F,West Lothian,rental (private),4
+2021,A,,rental (private),4
+2021,B,,rental (private),93
+2021,C,,rental (private),87
+2021,D,,rental (private),18
+2021,E,,rental (private),2
+2021,F,,rental (private),1
+2021,G,,rental (private),1
+2021,B,Aberdeen City,rental (private),167
+2021,C,Aberdeen City,rental (private),688
+2021,D,Aberdeen City,rental (private),510
+2021,E,Aberdeen City,rental (private),107
+2021,F,Aberdeen City,rental (private),34
+2021,G,Aberdeen City,rental (private),8
+2021,A,Aberdeenshire,rental (private),9
+2021,B,Aberdeenshire,rental (private),24
+2021,C,Aberdeenshire,rental (private),170
+2021,D,Aberdeenshire,rental (private),183
+2021,E,Aberdeenshire,rental (private),126
+2021,F,Aberdeenshire,rental (private),78
+2021,G,Aberdeenshire,rental (private),25
+2021,B,Angus,rental (private),11
+2021,C,Angus,rental (private),86
+2021,D,Angus,rental (private),127
+2021,E,Angus,rental (private),96
+2021,F,Angus,rental (private),31
+2021,G,Angus,rental (private),10
+2021,A,Argyll and Bute,rental (private),1
+2021,B,Argyll and Bute,rental (private),4
+2021,C,Argyll and Bute,rental (private),93
+2021,D,Argyll and Bute,rental (private),137
+2021,E,Argyll and Bute,rental (private),56
+2021,F,Argyll and Bute,rental (private),29
+2021,G,Argyll and Bute,rental (private),9
+2021,A,Clackmannanshire ,rental (private),1
+2021,B,Clackmannanshire ,rental (private),7
+2021,C,Clackmannanshire ,rental (private),43
+2021,D,Clackmannanshire ,rental (private),34
+2021,E,Clackmannanshire ,rental (private),10
+2021,B,Dumfries and Galloway,rental (private),6
+2021,C,Dumfries and Galloway,rental (private),113
+2021,D,Dumfries and Galloway,rental (private),169
+2021,E,Dumfries and Galloway,rental (private),223
+2021,F,Dumfries and Galloway,rental (private),100
+2021,G,Dumfries and Galloway,rental (private),22
+2021,B,Dundee City,rental (private),33
+2021,C,Dundee City,rental (private),399
+2021,D,Dundee City,rental (private),273
+2021,E,Dundee City,rental (private),105
+2021,F,Dundee City,rental (private),13
+2021,G,Dundee City,rental (private),2
+2021,B,East Ayrshire,rental (private),6
+2021,C,East Ayrshire,rental (private),113
+2021,D,East Ayrshire,rental (private),122
+2021,E,East Ayrshire,rental (private),35
+2021,F,East Ayrshire,rental (private),8
+2021,G,East Ayrshire,rental (private),1
+2021,B,East Dunbartonshire,rental (private),2
+2021,C,East Dunbartonshire,rental (private),43
+2021,D,East Dunbartonshire,rental (private),56
+2021,E,East Dunbartonshire,rental (private),15
+2021,F,East Dunbartonshire,rental (private),3
+2021,B,East Lothian,rental (private),2
+2021,C,East Lothian,rental (private),98
+2021,D,East Lothian,rental (private),52
+2021,E,East Lothian,rental (private),31
+2021,F,East Lothian,rental (private),14
+2021,G,East Lothian,rental (private),1
+2021,B,East Renfrewshire,rental (private),3
+2021,C,East Renfrewshire,rental (private),46
+2021,D,East Renfrewshire,rental (private),37
+2021,E,East Renfrewshire,rental (private),8
+2021,F,East Renfrewshire,rental (private),1
+2021,B,Edinburgh City,rental (private),204
+2021,C,Edinburgh City,rental (private),1780
+2021,D,Edinburgh City,rental (private),948
+2021,E,Edinburgh City,rental (private),216
+2021,F,Edinburgh City,rental (private),63
+2021,G,Edinburgh City,rental (private),9
+2021,A,Eilean Siar,rental (private),1
+2021,B,Eilean Siar,rental (private),1
+2021,C,Eilean Siar,rental (private),7
+2021,D,Eilean Siar,rental (private),19
+2021,E,Eilean Siar,rental (private),11
+2021,F,Eilean Siar,rental (private),12
+2021,G,Eilean Siar,rental (private),1
+2021,B,Falkirk,rental (private),7
+2021,C,Falkirk,rental (private),99
+2021,D,Falkirk,rental (private),62
+2021,E,Falkirk,rental (private),24
+2021,F,Falkirk,rental (private),4
+2021,A,Fife,rental (private),1
+2021,B,Fife,rental (private),25
+2021,C,Fife,rental (private),582
+2021,D,Fife,rental (private),524
+2021,E,Fife,rental (private),165
+2021,F,Fife,rental (private),46
+2021,G,Fife,rental (private),5
+2021,B,Glasgow City,rental (private),204
+2021,C,Glasgow City,rental (private),1518
+2021,D,Glasgow City,rental (private),781
+2021,E,Glasgow City,rental (private),179
+2021,F,Glasgow City,rental (private),54
+2021,G,Glasgow City,rental (private),14
+2021,B,Highland,rental (private),15
+2021,C,Highland,rental (private),243
+2021,D,Highland,rental (private),279
+2021,E,Highland,rental (private),241
+2021,F,Highland,rental (private),86
+2021,G,Highland,rental (private),42
+2021,B,Inverclyde,rental (private),2
+2021,C,Inverclyde,rental (private),86
+2021,D,Inverclyde,rental (private),60
+2021,E,Inverclyde,rental (private),25
+2021,F,Inverclyde,rental (private),3
+2021,G,Inverclyde,rental (private),1
+2021,A,Midlothian,rental (private),1
+2021,B,Midlothian,rental (private),2
+2021,C,Midlothian,rental (private),76
+2021,D,Midlothian,rental (private),78
+2021,E,Midlothian,rental (private),29
+2021,F,Midlothian,rental (private),20
+2021,B,Moray,rental (private),9
+2021,C,Moray,rental (private),101
+2021,D,Moray,rental (private),92
+2021,E,Moray,rental (private),66
+2021,F,Moray,rental (private),20
+2021,G,Moray,rental (private),16
+2021,B,North Ayrshire,rental (private),7
+2021,C,North Ayrshire,rental (private),94
+2021,D,North Ayrshire,rental (private),106
+2021,E,North Ayrshire,rental (private),38
+2021,F,North Ayrshire,rental (private),7
+2021,G,North Ayrshire,rental (private),3
+2021,A,North Lanarkshire,rental (private),1
+2021,B,North Lanarkshire,rental (private),17
+2021,C,North Lanarkshire,rental (private),280
+2021,D,North Lanarkshire,rental (private),192
+2021,E,North Lanarkshire,rental (private),61
+2021,F,North Lanarkshire,rental (private),7
+2021,G,North Lanarkshire,rental (private),2
+2021,B,Orkney Islands,rental (private),1
+2021,C,Orkney Islands,rental (private),30
+2021,D,Orkney Islands,rental (private),63
+2021,E,Orkney Islands,rental (private),24
+2021,F,Orkney Islands,rental (private),12
+2021,G,Orkney Islands,rental (private),1
+2021,B,Perth and Kinross,rental (private),17
+2021,C,Perth and Kinross,rental (private),205
+2021,D,Perth and Kinross,rental (private),180
+2021,E,Perth and Kinross,rental (private),141
+2021,F,Perth and Kinross,rental (private),35
+2021,G,Perth and Kinross,rental (private),14
+2021,B,Renfrewshire,rental (private),24
+2021,C,Renfrewshire,rental (private),247
+2021,D,Renfrewshire,rental (private),156
+2021,E,Renfrewshire,rental (private),64
+2021,F,Renfrewshire,rental (private),15
+2021,B,Scottish Borders,rental (private),4
+2021,C,Scottish Borders,rental (private),65
+2021,D,Scottish Borders,rental (private),114
+2021,E,Scottish Borders,rental (private),127
+2021,F,Scottish Borders,rental (private),62
+2021,G,Scottish Borders,rental (private),7
+2021,C,Shetland Islands,rental (private),4
+2021,D,Shetland Islands,rental (private),13
+2021,E,Shetland Islands,rental (private),14
+2021,F,Shetland Islands,rental (private),17
+2021,G,Shetland Islands,rental (private),2
+2021,B,South Ayrshire,rental (private),8
+2021,C,South Ayrshire,rental (private),159
+2021,D,South Ayrshire,rental (private),131
+2021,E,South Ayrshire,rental (private),54
+2021,F,South Ayrshire,rental (private),22
+2021,G,South Ayrshire,rental (private),8
+2021,B,South Lanarkshire,rental (private),31
+2021,C,South Lanarkshire,rental (private),326
+2021,D,South Lanarkshire,rental (private),211
+2021,E,South Lanarkshire,rental (private),72
+2021,F,South Lanarkshire,rental (private),17
+2021,G,South Lanarkshire,rental (private),4
+2021,A,Stirling,rental (private),1
+2021,B,Stirling,rental (private),16
+2021,C,Stirling,rental (private),140
+2021,D,Stirling,rental (private),92
+2021,E,Stirling,rental (private),40
+2021,F,Stirling,rental (private),12
+2021,G,Stirling,rental (private),4
+2021,B,West Dunbartonshire,rental (private),6
+2021,C,West Dunbartonshire,rental (private),64
+2021,D,West Dunbartonshire,rental (private),41
+2021,E,West Dunbartonshire,rental (private),5
+2021,F,West Dunbartonshire,rental (private),3
+2021,B,West Lothian,rental (private),15
+2021,C,West Lothian,rental (private),100
+2021,D,West Lothian,rental (private),50
+2021,E,West Lothian,rental (private),21
+2021,F,West Lothian,rental (private),2
+2020,A,,rental (private),4
+2020,B,,rental (private),127
+2020,C,,rental (private),375
+2020,D,,rental (private),38
+2020,E,,rental (private),6
+2020,F,,rental (private),1
+2020,B,Aberdeen City,rental (private),83
+2020,C,Aberdeen City,rental (private),615
+2020,D,Aberdeen City,rental (private),463
+2020,E,Aberdeen City,rental (private),152
+2020,F,Aberdeen City,rental (private),47
+2020,G,Aberdeen City,rental (private),18
+2020,A,Aberdeenshire,rental (private),6
+2020,B,Aberdeenshire,rental (private),34
+2020,C,Aberdeenshire,rental (private),191
+2020,D,Aberdeenshire,rental (private),178
+2020,E,Aberdeenshire,rental (private),128
+2020,F,Aberdeenshire,rental (private),68
+2020,G,Aberdeenshire,rental (private),25
+2020,B,Angus,rental (private),5
+2020,C,Angus,rental (private),98
+2020,D,Angus,rental (private),127
+2020,E,Angus,rental (private),73
+2020,F,Angus,rental (private),23
+2020,G,Angus,rental (private),4
+2020,B,Argyll and Bute,rental (private),3
+2020,C,Argyll and Bute,rental (private),51
+2020,D,Argyll and Bute,rental (private),104
+2020,E,Argyll and Bute,rental (private),66
+2020,F,Argyll and Bute,rental (private),43
+2020,G,Argyll and Bute,rental (private),11
+2020,C,Clackmannanshire ,rental (private),34
+2020,D,Clackmannanshire ,rental (private),18
+2020,E,Clackmannanshire ,rental (private),9
+2020,B,Dumfries and Galloway,rental (private),2
+2020,C,Dumfries and Galloway,rental (private),63
+2020,D,Dumfries and Galloway,rental (private),161
+2020,E,Dumfries and Galloway,rental (private),162
+2020,F,Dumfries and Galloway,rental (private),93
+2020,G,Dumfries and Galloway,rental (private),15
+2020,B,Dundee City,rental (private),25
+2020,C,Dundee City,rental (private),469
+2020,D,Dundee City,rental (private),324
+2020,E,Dundee City,rental (private),110
+2020,F,Dundee City,rental (private),32
+2020,G,Dundee City,rental (private),2
+2020,B,East Ayrshire,rental (private),11
+2020,C,East Ayrshire,rental (private),146
+2020,D,East Ayrshire,rental (private),128
+2020,E,East Ayrshire,rental (private),27
+2020,F,East Ayrshire,rental (private),9
+2020,B,East Dunbartonshire,rental (private),2
+2020,C,East Dunbartonshire,rental (private),32
+2020,D,East Dunbartonshire,rental (private),61
+2020,E,East Dunbartonshire,rental (private),7
+2020,G,East Dunbartonshire,rental (private),1
+2020,B,East Lothian,rental (private),8
+2020,C,East Lothian,rental (private),102
+2020,D,East Lothian,rental (private),89
+2020,E,East Lothian,rental (private),42
+2020,F,East Lothian,rental (private),12
+2020,G,East Lothian,rental (private),2
+2020,B,East Renfrewshire,rental (private),4
+2020,C,East Renfrewshire,rental (private),29
+2020,D,East Renfrewshire,rental (private),42
+2020,E,East Renfrewshire,rental (private),15
+2020,F,East Renfrewshire,rental (private),2
+2020,B,Edinburgh City,rental (private),397
+2020,C,Edinburgh City,rental (private),2267
+2020,D,Edinburgh City,rental (private),1326
+2020,E,Edinburgh City,rental (private),369
+2020,F,Edinburgh City,rental (private),73
+2020,G,Edinburgh City,rental (private),9
+2020,A,Eilean Siar,rental (private),2
+2020,B,Eilean Siar,rental (private),2
+2020,C,Eilean Siar,rental (private),10
+2020,D,Eilean Siar,rental (private),25
+2020,E,Eilean Siar,rental (private),22
+2020,F,Eilean Siar,rental (private),21
+2020,G,Eilean Siar,rental (private),3
+2020,B,Falkirk,rental (private),2
+2020,C,Falkirk,rental (private),71
+2020,D,Falkirk,rental (private),52
+2020,E,Falkirk,rental (private),20
+2020,F,Falkirk,rental (private),3
+2020,G,Falkirk,rental (private),1
+2020,B,Fife,rental (private),21
+2020,C,Fife,rental (private),457
+2020,D,Fife,rental (private),497
+2020,E,Fife,rental (private),133
+2020,F,Fife,rental (private),41
+2020,G,Fife,rental (private),8
+2020,B,Glasgow City,rental (private),394
+2020,C,Glasgow City,rental (private),1590
+2020,D,Glasgow City,rental (private),886
+2020,E,Glasgow City,rental (private),234
+2020,F,Glasgow City,rental (private),42
+2020,G,Glasgow City,rental (private),11
+2020,B,Highland,rental (private),12
+2020,C,Highland,rental (private),224
+2020,D,Highland,rental (private),287
+2020,E,Highland,rental (private),256
+2020,F,Highland,rental (private),125
+2020,G,Highland,rental (private),37
+2020,B,Inverclyde,rental (private),5
+2020,C,Inverclyde,rental (private),71
+2020,D,Inverclyde,rental (private),55
+2020,E,Inverclyde,rental (private),15
+2020,F,Inverclyde,rental (private),3
+2020,G,Inverclyde,rental (private),1
+2020,B,Midlothian,rental (private),3
+2020,C,Midlothian,rental (private),68
+2020,D,Midlothian,rental (private),61
+2020,E,Midlothian,rental (private),19
+2020,F,Midlothian,rental (private),7
+2020,B,Moray,rental (private),2
+2020,C,Moray,rental (private),80
+2020,D,Moray,rental (private),104
+2020,E,Moray,rental (private),59
+2020,F,Moray,rental (private),45
+2020,G,Moray,rental (private),6
+2020,B,North Ayrshire,rental (private),5
+2020,C,North Ayrshire,rental (private),107
+2020,D,North Ayrshire,rental (private),89
+2020,E,North Ayrshire,rental (private),29
+2020,F,North Ayrshire,rental (private),11
+2020,G,North Ayrshire,rental (private),5
+2020,B,North Lanarkshire,rental (private),6
+2020,C,North Lanarkshire,rental (private),207
+2020,D,North Lanarkshire,rental (private),192
+2020,E,North Lanarkshire,rental (private),51
+2020,F,North Lanarkshire,rental (private),13
+2020,A,Orkney Islands,rental (private),1
+2020,B,Orkney Islands,rental (private),3
+2020,C,Orkney Islands,rental (private),11
+2020,D,Orkney Islands,rental (private),33
+2020,E,Orkney Islands,rental (private),18
+2020,F,Orkney Islands,rental (private),8
+2020,G,Orkney Islands,rental (private),2
+2020,B,Perth and Kinross,rental (private),7
+2020,C,Perth and Kinross,rental (private),206
+2020,D,Perth and Kinross,rental (private),214
+2020,E,Perth and Kinross,rental (private),209
+2020,F,Perth and Kinross,rental (private),60
+2020,G,Perth and Kinross,rental (private),16
+2020,B,Renfrewshire,rental (private),19
+2020,C,Renfrewshire,rental (private),236
+2020,D,Renfrewshire,rental (private),173
+2020,E,Renfrewshire,rental (private),50
+2020,F,Renfrewshire,rental (private),12
+2020,G,Renfrewshire,rental (private),4
+2020,B,Scottish Borders,rental (private),2
+2020,C,Scottish Borders,rental (private),74
+2020,D,Scottish Borders,rental (private),144
+2020,E,Scottish Borders,rental (private),86
+2020,F,Scottish Borders,rental (private),46
+2020,G,Scottish Borders,rental (private),7
+2020,C,Shetland Islands,rental (private),8
+2020,D,Shetland Islands,rental (private),10
+2020,E,Shetland Islands,rental (private),3
+2020,F,Shetland Islands,rental (private),3
+2020,G,Shetland Islands,rental (private),1
+2020,B,South Ayrshire,rental (private),16
+2020,C,South Ayrshire,rental (private),154
+2020,D,South Ayrshire,rental (private),89
+2020,E,South Ayrshire,rental (private),35
+2020,F,South Ayrshire,rental (private),15
+2020,G,South Ayrshire,rental (private),4
+2020,B,South Lanarkshire,rental (private),23
+2020,C,South Lanarkshire,rental (private),268
+2020,D,South Lanarkshire,rental (private),223
+2020,E,South Lanarkshire,rental (private),83
+2020,F,South Lanarkshire,rental (private),23
+2020,G,South Lanarkshire,rental (private),4
+2020,B,Stirling,rental (private),15
+2020,C,Stirling,rental (private),106
+2020,D,Stirling,rental (private),95
+2020,E,Stirling,rental (private),39
+2020,F,Stirling,rental (private),19
+2020,G,Stirling,rental (private),1
+2020,B,West Dunbartonshire,rental (private),2
+2020,C,West Dunbartonshire,rental (private),57
+2020,D,West Dunbartonshire,rental (private),40
+2020,E,West Dunbartonshire,rental (private),25
+2020,F,West Dunbartonshire,rental (private),2
+2020,B,West Lothian,rental (private),8
+2020,C,West Lothian,rental (private),121
+2020,D,West Lothian,rental (private),62
+2020,E,West Lothian,rental (private),18
+2020,F,West Lothian,rental (private),2
+2019,A,,rental (private),1
+2019,B,,rental (private),140
+2019,C,,rental (private),112
+2019,D,,rental (private),10
+2019,B,Aberdeen City,rental (private),50
+2019,C,Aberdeen City,rental (private),615
+2019,D,Aberdeen City,rental (private),479
+2019,E,Aberdeen City,rental (private),174
+2019,F,Aberdeen City,rental (private),46
+2019,G,Aberdeen City,rental (private),7
+2019,A,Aberdeenshire,rental (private),4
+2019,B,Aberdeenshire,rental (private),11
+2019,C,Aberdeenshire,rental (private),131
+2019,D,Aberdeenshire,rental (private),162
+2019,E,Aberdeenshire,rental (private),119
+2019,F,Aberdeenshire,rental (private),75
+2019,G,Aberdeenshire,rental (private),21
+2019,B,Angus,rental (private),4
+2019,C,Angus,rental (private),111
+2019,D,Angus,rental (private),127
+2019,E,Angus,rental (private),99
+2019,F,Angus,rental (private),36
+2019,G,Angus,rental (private),11
+2019,B,Argyll and Bute,rental (private),5
+2019,C,Argyll and Bute,rental (private),55
+2019,D,Argyll and Bute,rental (private),87
+2019,E,Argyll and Bute,rental (private),57
+2019,F,Argyll and Bute,rental (private),31
+2019,G,Argyll and Bute,rental (private),8
+2019,B,Clackmannanshire ,rental (private),2
+2019,C,Clackmannanshire ,rental (private),33
+2019,D,Clackmannanshire ,rental (private),28
+2019,E,Clackmannanshire ,rental (private),4
+2019,F,Clackmannanshire ,rental (private),1
+2019,B,Dumfries and Galloway,rental (private),2
+2019,C,Dumfries and Galloway,rental (private),79
+2019,D,Dumfries and Galloway,rental (private),164
+2019,E,Dumfries and Galloway,rental (private),152
+2019,F,Dumfries and Galloway,rental (private),64
+2019,G,Dumfries and Galloway,rental (private),12
+2019,B,Dundee City,rental (private),63
+2019,C,Dundee City,rental (private),609
+2019,D,Dundee City,rental (private),360
+2019,E,Dundee City,rental (private),102
+2019,F,Dundee City,rental (private),30
+2019,G,Dundee City,rental (private),8
+2019,B,East Ayrshire,rental (private),12
+2019,C,East Ayrshire,rental (private),117
+2019,D,East Ayrshire,rental (private),135
+2019,E,East Ayrshire,rental (private),22
+2019,F,East Ayrshire,rental (private),6
+2019,G,East Ayrshire,rental (private),4
+2019,B,East Dunbartonshire,rental (private),3
+2019,C,East Dunbartonshire,rental (private),57
+2019,D,East Dunbartonshire,rental (private),53
+2019,E,East Dunbartonshire,rental (private),12
+2019,F,East Dunbartonshire,rental (private),3
+2019,B,East Lothian,rental (private),3
+2019,C,East Lothian,rental (private),59
+2019,D,East Lothian,rental (private),73
+2019,E,East Lothian,rental (private),31
+2019,F,East Lothian,rental (private),15
+2019,G,East Lothian,rental (private),2
+2019,B,East Renfrewshire,rental (private),8
+2019,C,East Renfrewshire,rental (private),39
+2019,D,East Renfrewshire,rental (private),40
+2019,E,East Renfrewshire,rental (private),7
+2019,B,Edinburgh City,rental (private),226
+2019,C,Edinburgh City,rental (private),2441
+2019,D,Edinburgh City,rental (private),1266
+2019,E,Edinburgh City,rental (private),374
+2019,F,Edinburgh City,rental (private),86
+2019,G,Edinburgh City,rental (private),21
+2019,B,Eilean Siar,rental (private),3
+2019,C,Eilean Siar,rental (private),8
+2019,D,Eilean Siar,rental (private),20
+2019,E,Eilean Siar,rental (private),14
+2019,F,Eilean Siar,rental (private),15
+2019,G,Eilean Siar,rental (private),2
+2019,B,Falkirk,rental (private),4
+2019,C,Falkirk,rental (private),101
+2019,D,Falkirk,rental (private),70
+2019,E,Falkirk,rental (private),28
+2019,F,Falkirk,rental (private),3
+2019,G,Falkirk,rental (private),1
+2019,B,Fife,rental (private),23
+2019,C,Fife,rental (private),429
+2019,D,Fife,rental (private),470
+2019,E,Fife,rental (private),120
+2019,F,Fife,rental (private),40
+2019,G,Fife,rental (private),6
+2019,B,Glasgow City,rental (private),265
+2019,C,Glasgow City,rental (private),1664
+2019,D,Glasgow City,rental (private),879
+2019,E,Glasgow City,rental (private),234
+2019,F,Glasgow City,rental (private),49
+2019,G,Glasgow City,rental (private),15
+2019,B,Highland,rental (private),19
+2019,C,Highland,rental (private),169
+2019,D,Highland,rental (private),239
+2019,E,Highland,rental (private),134
+2019,F,Highland,rental (private),62
+2019,G,Highland,rental (private),25
+2019,B,Inverclyde,rental (private),3
+2019,C,Inverclyde,rental (private),41
+2019,D,Inverclyde,rental (private),53
+2019,E,Inverclyde,rental (private),15
+2019,F,Inverclyde,rental (private),5
+2019,G,Inverclyde,rental (private),2
+2019,C,Midlothian,rental (private),71
+2019,D,Midlothian,rental (private),66
+2019,E,Midlothian,rental (private),16
+2019,F,Midlothian,rental (private),6
+2019,G,Midlothian,rental (private),2
+2019,B,Moray,rental (private),3
+2019,C,Moray,rental (private),297
+2019,D,Moray,rental (private),174
+2019,E,Moray,rental (private),83
+2019,F,Moray,rental (private),49
+2019,G,Moray,rental (private),8
+2019,B,North Ayrshire,rental (private),6
+2019,C,North Ayrshire,rental (private),107
+2019,D,North Ayrshire,rental (private),122
+2019,E,North Ayrshire,rental (private),37
+2019,F,North Ayrshire,rental (private),9
+2019,G,North Ayrshire,rental (private),3
+2019,B,North Lanarkshire,rental (private),15
+2019,C,North Lanarkshire,rental (private),199
+2019,D,North Lanarkshire,rental (private),143
+2019,E,North Lanarkshire,rental (private),60
+2019,F,North Lanarkshire,rental (private),24
+2019,G,North Lanarkshire,rental (private),2
+2019,A,Orkney Islands,rental (private),3
+2019,B,Orkney Islands,rental (private),2
+2019,C,Orkney Islands,rental (private),8
+2019,D,Orkney Islands,rental (private),26
+2019,E,Orkney Islands,rental (private),19
+2019,F,Orkney Islands,rental (private),9
+2019,G,Orkney Islands,rental (private),2
+2019,A,Perth and Kinross,rental (private),1
+2019,B,Perth and Kinross,rental (private),13
+2019,C,Perth and Kinross,rental (private),187
+2019,D,Perth and Kinross,rental (private),206
+2019,E,Perth and Kinross,rental (private),152
+2019,F,Perth and Kinross,rental (private),47
+2019,G,Perth and Kinross,rental (private),11
+2019,B,Renfrewshire,rental (private),48
+2019,C,Renfrewshire,rental (private),240
+2019,D,Renfrewshire,rental (private),171
+2019,E,Renfrewshire,rental (private),36
+2019,F,Renfrewshire,rental (private),20
+2019,G,Renfrewshire,rental (private),7
+2019,A,Scottish Borders,rental (private),1
+2019,B,Scottish Borders,rental (private),5
+2019,C,Scottish Borders,rental (private),99
+2019,D,Scottish Borders,rental (private),140
+2019,E,Scottish Borders,rental (private),142
+2019,F,Scottish Borders,rental (private),74
+2019,G,Scottish Borders,rental (private),16
+2019,D,Shetland Islands,rental (private),25
+2019,E,Shetland Islands,rental (private),14
+2019,F,Shetland Islands,rental (private),1
+2019,G,Shetland Islands,rental (private),1
+2019,B,South Ayrshire,rental (private),13
+2019,C,South Ayrshire,rental (private),134
+2019,D,South Ayrshire,rental (private),168
+2019,E,South Ayrshire,rental (private),46
+2019,F,South Ayrshire,rental (private),13
+2019,B,South Lanarkshire,rental (private),38
+2019,C,South Lanarkshire,rental (private),297
+2019,D,South Lanarkshire,rental (private),227
+2019,E,South Lanarkshire,rental (private),83
+2019,F,South Lanarkshire,rental (private),22
+2019,G,South Lanarkshire,rental (private),3
+2019,A,Stirling,rental (private),1
+2019,B,Stirling,rental (private),10
+2019,C,Stirling,rental (private),103
+2019,D,Stirling,rental (private),100
+2019,E,Stirling,rental (private),35
+2019,F,Stirling,rental (private),10
+2019,G,Stirling,rental (private),2
+2019,B,West Dunbartonshire,rental (private),3
+2019,C,West Dunbartonshire,rental (private),47
+2019,D,West Dunbartonshire,rental (private),38
+2019,E,West Dunbartonshire,rental (private),7
+2019,F,West Dunbartonshire,rental (private),3
+2019,B,West Lothian,rental (private),19
+2019,C,West Lothian,rental (private),158
+2019,D,West Lothian,rental (private),122
+2019,E,West Lothian,rental (private),18
+2019,F,West Lothian,rental (private),3
+2018,B,,rental (private),21
+2018,C,,rental (private),29
+2018,D,,rental (private),7
+2018,E,,rental (private),4
+2018,B,Aberdeen City,rental (private),18
+2018,C,Aberdeen City,rental (private),292
+2018,D,Aberdeen City,rental (private),221
+2018,E,Aberdeen City,rental (private),76
+2018,F,Aberdeen City,rental (private),19
+2018,G,Aberdeen City,rental (private),4
+2018,B,Aberdeenshire,rental (private),6
+2018,C,Aberdeenshire,rental (private),81
+2018,D,Aberdeenshire,rental (private),156
+2018,E,Aberdeenshire,rental (private),116
+2018,F,Aberdeenshire,rental (private),84
+2018,G,Aberdeenshire,rental (private),20
+2018,B,Angus,rental (private),5
+2018,C,Angus,rental (private),54
+2018,D,Angus,rental (private),69
+2018,E,Angus,rental (private),50
+2018,F,Angus,rental (private),19
+2018,G,Angus,rental (private),3
+2018,B,Argyll and Bute,rental (private),2
+2018,C,Argyll and Bute,rental (private),69
+2018,D,Argyll and Bute,rental (private),76
+2018,E,Argyll and Bute,rental (private),55
+2018,F,Argyll and Bute,rental (private),31
+2018,G,Argyll and Bute,rental (private),14
+2018,C,Clackmannanshire ,rental (private),23
+2018,D,Clackmannanshire ,rental (private),15
+2018,E,Clackmannanshire ,rental (private),4
+2018,B,Dumfries and Galloway,rental (private),2
+2018,C,Dumfries and Galloway,rental (private),65
+2018,D,Dumfries and Galloway,rental (private),118
+2018,E,Dumfries and Galloway,rental (private),112
+2018,F,Dumfries and Galloway,rental (private),66
+2018,G,Dumfries and Galloway,rental (private),16
+2018,B,Dundee City,rental (private),15
+2018,C,Dundee City,rental (private),310
+2018,D,Dundee City,rental (private),286
+2018,E,Dundee City,rental (private),73
+2018,F,Dundee City,rental (private),21
+2018,G,Dundee City,rental (private),6
+2018,B,East Ayrshire,rental (private),1
+2018,C,East Ayrshire,rental (private),68
+2018,D,East Ayrshire,rental (private),82
+2018,E,East Ayrshire,rental (private),25
+2018,F,East Ayrshire,rental (private),6
+2018,G,East Ayrshire,rental (private),3
+2018,B,East Dunbartonshire,rental (private),1
+2018,C,East Dunbartonshire,rental (private),27
+2018,D,East Dunbartonshire,rental (private),42
+2018,E,East Dunbartonshire,rental (private),8
+2018,C,East Lothian,rental (private),32
+2018,D,East Lothian,rental (private),56
+2018,E,East Lothian,rental (private),23
+2018,F,East Lothian,rental (private),15
+2018,G,East Lothian,rental (private),3
+2018,B,East Renfrewshire,rental (private),1
+2018,C,East Renfrewshire,rental (private),22
+2018,D,East Renfrewshire,rental (private),31
+2018,E,East Renfrewshire,rental (private),2
+2018,F,East Renfrewshire,rental (private),2
+2018,B,Edinburgh City,rental (private),70
+2018,C,Edinburgh City,rental (private),956
+2018,D,Edinburgh City,rental (private),565
+2018,E,Edinburgh City,rental (private),142
+2018,F,Edinburgh City,rental (private),25
+2018,G,Edinburgh City,rental (private),11
+2018,C,Eilean Siar,rental (private),8
+2018,D,Eilean Siar,rental (private),10
+2018,E,Eilean Siar,rental (private),13
+2018,F,Eilean Siar,rental (private),16
+2018,G,Eilean Siar,rental (private),1
+2018,B,Falkirk,rental (private),2
+2018,C,Falkirk,rental (private),35
+2018,D,Falkirk,rental (private),27
+2018,E,Falkirk,rental (private),12
+2018,F,Falkirk,rental (private),3
+2018,A,Fife,rental (private),1
+2018,B,Fife,rental (private),9
+2018,C,Fife,rental (private),268
+2018,D,Fife,rental (private),319
+2018,E,Fife,rental (private),85
+2018,F,Fife,rental (private),24
+2018,G,Fife,rental (private),7
+2018,B,Glasgow City,rental (private),165
+2018,C,Glasgow City,rental (private),933
+2018,D,Glasgow City,rental (private),491
+2018,E,Glasgow City,rental (private),122
+2018,F,Glasgow City,rental (private),38
+2018,G,Glasgow City,rental (private),15
+2018,A,Highland,rental (private),2
+2018,B,Highland,rental (private),8
+2018,C,Highland,rental (private),114
+2018,D,Highland,rental (private),171
+2018,E,Highland,rental (private),116
+2018,F,Highland,rental (private),62
+2018,G,Highland,rental (private),12
+2018,C,Inverclyde,rental (private),35
+2018,D,Inverclyde,rental (private),26
+2018,E,Inverclyde,rental (private),13
+2018,F,Inverclyde,rental (private),2
+2018,G,Inverclyde,rental (private),1
+2018,B,Midlothian,rental (private),2
+2018,C,Midlothian,rental (private),38
+2018,D,Midlothian,rental (private),33
+2018,E,Midlothian,rental (private),12
+2018,F,Midlothian,rental (private),4
+2018,C,Moray,rental (private),35
+2018,D,Moray,rental (private),61
+2018,E,Moray,rental (private),30
+2018,F,Moray,rental (private),19
+2018,G,Moray,rental (private),4
+2018,B,North Ayrshire,rental (private),1
+2018,C,North Ayrshire,rental (private),69
+2018,D,North Ayrshire,rental (private),100
+2018,E,North Ayrshire,rental (private),22
+2018,F,North Ayrshire,rental (private),6
+2018,G,North Ayrshire,rental (private),4
+2018,B,North Lanarkshire,rental (private),8
+2018,C,North Lanarkshire,rental (private),128
+2018,D,North Lanarkshire,rental (private),91
+2018,E,North Lanarkshire,rental (private),22
+2018,F,North Lanarkshire,rental (private),9
+2018,G,North Lanarkshire,rental (private),1
+2018,A,Orkney Islands,rental (private),1
+2018,B,Orkney Islands,rental (private),1
+2018,C,Orkney Islands,rental (private),3
+2018,D,Orkney Islands,rental (private),12
+2018,E,Orkney Islands,rental (private),9
+2018,F,Orkney Islands,rental (private),5
+2018,G,Orkney Islands,rental (private),5
+2018,B,Perth and Kinross,rental (private),4
+2018,C,Perth and Kinross,rental (private),118
+2018,D,Perth and Kinross,rental (private),121
+2018,E,Perth and Kinross,rental (private),155
+2018,F,Perth and Kinross,rental (private),68
+2018,G,Perth and Kinross,rental (private),12
+2018,B,Renfrewshire,rental (private),14
+2018,C,Renfrewshire,rental (private),124
+2018,D,Renfrewshire,rental (private),92
+2018,E,Renfrewshire,rental (private),13
+2018,F,Renfrewshire,rental (private),3
+2018,G,Renfrewshire,rental (private),2
+2018,B,Scottish Borders,rental (private),3
+2018,C,Scottish Borders,rental (private),60
+2018,D,Scottish Borders,rental (private),104
+2018,E,Scottish Borders,rental (private),108
+2018,F,Scottish Borders,rental (private),82
+2018,G,Scottish Borders,rental (private),29
+2018,C,Shetland Islands,rental (private),8
+2018,D,Shetland Islands,rental (private),18
+2018,E,Shetland Islands,rental (private),12
+2018,F,Shetland Islands,rental (private),5
+2018,G,Shetland Islands,rental (private),1
+2018,B,South Ayrshire,rental (private),4
+2018,C,South Ayrshire,rental (private),71
+2018,D,South Ayrshire,rental (private),70
+2018,E,South Ayrshire,rental (private),44
+2018,F,South Ayrshire,rental (private),19
+2018,G,South Ayrshire,rental (private),8
+2018,B,South Lanarkshire,rental (private),15
+2018,C,South Lanarkshire,rental (private),165
+2018,D,South Lanarkshire,rental (private),122
+2018,E,South Lanarkshire,rental (private),50
+2018,F,South Lanarkshire,rental (private),6
+2018,A,Stirling,rental (private),1
+2018,B,Stirling,rental (private),5
+2018,C,Stirling,rental (private),62
+2018,D,Stirling,rental (private),67
+2018,E,Stirling,rental (private),15
+2018,F,Stirling,rental (private),15
+2018,G,Stirling,rental (private),2
+2018,B,West Dunbartonshire,rental (private),1
+2018,C,West Dunbartonshire,rental (private),47
+2018,D,West Dunbartonshire,rental (private),19
+2018,E,West Dunbartonshire,rental (private),7
+2018,F,West Dunbartonshire,rental (private),3
+2018,B,West Lothian,rental (private),6
+2018,C,West Lothian,rental (private),72
+2018,D,West Lothian,rental (private),52
+2018,E,West Lothian,rental (private),6
+2018,F,West Lothian,rental (private),4
+2017,B,,rental (private),40
+2017,C,,rental (private),28
+2017,D,,rental (private),14
+2017,F,,rental (private),1
+2017,G,00EM,rental (private),1
+2017,B,Aberdeen City,rental (private),28
+2017,C,Aberdeen City,rental (private),260
+2017,D,Aberdeen City,rental (private),176
+2017,E,Aberdeen City,rental (private),81
+2017,F,Aberdeen City,rental (private),19
+2017,G,Aberdeen City,rental (private),8
+2017,B,Aberdeenshire,rental (private),3
+2017,C,Aberdeenshire,rental (private),94
+2017,D,Aberdeenshire,rental (private),127
+2017,E,Aberdeenshire,rental (private),77
+2017,F,Aberdeenshire,rental (private),86
+2017,G,Aberdeenshire,rental (private),19
+2017,B,Angus,rental (private),6
+2017,C,Angus,rental (private),33
+2017,D,Angus,rental (private),94
+2017,E,Angus,rental (private),67
+2017,F,Angus,rental (private),40
+2017,G,Angus,rental (private),9
+2017,B,Argyll and Bute,rental (private),4
+2017,C,Argyll and Bute,rental (private),67
+2017,D,Argyll and Bute,rental (private),61
+2017,E,Argyll and Bute,rental (private),61
+2017,F,Argyll and Bute,rental (private),44
+2017,G,Argyll and Bute,rental (private),22
+2017,C,Clackmannanshire ,rental (private),14
+2017,D,Clackmannanshire ,rental (private),15
+2017,E,Clackmannanshire ,rental (private),9
+2017,F,Clackmannanshire ,rental (private),1
+2017,B,Dumfries and Galloway,rental (private),1
+2017,C,Dumfries and Galloway,rental (private),60
+2017,D,Dumfries and Galloway,rental (private),127
+2017,E,Dumfries and Galloway,rental (private),92
+2017,F,Dumfries and Galloway,rental (private),115
+2017,G,Dumfries and Galloway,rental (private),33
+2017,B,Dundee City,rental (private),17
+2017,C,Dundee City,rental (private),351
+2017,D,Dundee City,rental (private),225
+2017,E,Dundee City,rental (private),104
+2017,F,Dundee City,rental (private),42
+2017,G,Dundee City,rental (private),13
+2017,C,East Ayrshire,rental (private),84
+2017,D,East Ayrshire,rental (private),121
+2017,E,East Ayrshire,rental (private),33
+2017,F,East Ayrshire,rental (private),24
+2017,G,East Ayrshire,rental (private),9
+2017,B,East Dunbartonshire,rental (private),3
+2017,C,East Dunbartonshire,rental (private),26
+2017,D,East Dunbartonshire,rental (private),42
+2017,E,East Dunbartonshire,rental (private),10
+2017,F,East Dunbartonshire,rental (private),5
+2017,G,East Dunbartonshire,rental (private),1
+2017,B,East Lothian,rental (private),2
+2017,C,East Lothian,rental (private),40
+2017,D,East Lothian,rental (private),46
+2017,E,East Lothian,rental (private),36
+2017,F,East Lothian,rental (private),17
+2017,G,East Lothian,rental (private),4
+2017,C,East Renfrewshire,rental (private),58
+2017,D,East Renfrewshire,rental (private),59
+2017,E,East Renfrewshire,rental (private),6
+2017,F,East Renfrewshire,rental (private),2
+2017,G,East Renfrewshire,rental (private),1
+2017,B,Edinburgh City,rental (private),91
+2017,C,Edinburgh City,rental (private),780
+2017,D,Edinburgh City,rental (private),564
+2017,E,Edinburgh City,rental (private),154
+2017,F,Edinburgh City,rental (private),33
+2017,G,Edinburgh City,rental (private),10
+2017,C,Eilean Siar,rental (private),3
+2017,D,Eilean Siar,rental (private),11
+2017,E,Eilean Siar,rental (private),14
+2017,F,Eilean Siar,rental (private),11
+2017,G,Eilean Siar,rental (private),4
+2017,B,Falkirk,rental (private),1
+2017,C,Falkirk,rental (private),56
+2017,D,Falkirk,rental (private),55
+2017,E,Falkirk,rental (private),15
+2017,F,Falkirk,rental (private),3
+2017,A,Fife,rental (private),2
+2017,B,Fife,rental (private),6
+2017,C,Fife,rental (private),254
+2017,D,Fife,rental (private),313
+2017,E,Fife,rental (private),82
+2017,F,Fife,rental (private),37
+2017,G,Fife,rental (private),5
+2017,B,Glasgow City,rental (private),90
+2017,C,Glasgow City,rental (private),815
+2017,D,Glasgow City,rental (private),538
+2017,E,Glasgow City,rental (private),164
+2017,F,Glasgow City,rental (private),30
+2017,G,Glasgow City,rental (private),12
+2017,B,Highland,rental (private),5
+2017,C,Highland,rental (private),121
+2017,D,Highland,rental (private),174
+2017,E,Highland,rental (private),138
+2017,F,Highland,rental (private),96
+2017,G,Highland,rental (private),40
+2017,B,Inverclyde,rental (private),2
+2017,C,Inverclyde,rental (private),56
+2017,D,Inverclyde,rental (private),58
+2017,E,Inverclyde,rental (private),18
+2017,F,Inverclyde,rental (private),2
+2017,G,Inverclyde,rental (private),2
+2017,B,Midlothian,rental (private),2
+2017,C,Midlothian,rental (private),53
+2017,D,Midlothian,rental (private),21
+2017,E,Midlothian,rental (private),3
+2017,F,Midlothian,rental (private),8
+2017,G,Midlothian,rental (private),2
+2017,B,Moray,rental (private),1
+2017,C,Moray,rental (private),94
+2017,D,Moray,rental (private),74
+2017,E,Moray,rental (private),34
+2017,F,Moray,rental (private),35
+2017,G,Moray,rental (private),16
+2017,C,North Ayrshire,rental (private),110
+2017,D,North Ayrshire,rental (private),125
+2017,E,North Ayrshire,rental (private),41
+2017,F,North Ayrshire,rental (private),24
+2017,G,North Ayrshire,rental (private),9
+2017,B,North Lanarkshire,rental (private),2
+2017,C,North Lanarkshire,rental (private),122
+2017,D,North Lanarkshire,rental (private),126
+2017,E,North Lanarkshire,rental (private),33
+2017,F,North Lanarkshire,rental (private),21
+2017,G,North Lanarkshire,rental (private),3
+2017,B,Orkney Islands,rental (private),1
+2017,C,Orkney Islands,rental (private),4
+2017,D,Orkney Islands,rental (private),12
+2017,E,Orkney Islands,rental (private),9
+2017,F,Orkney Islands,rental (private),5
+2017,G,Orkney Islands,rental (private),1
+2017,B,Perth and Kinross,rental (private),8
+2017,C,Perth and Kinross,rental (private),109
+2017,D,Perth and Kinross,rental (private),135
+2017,E,Perth and Kinross,rental (private),112
+2017,F,Perth and Kinross,rental (private),52
+2017,G,Perth and Kinross,rental (private),18
+2017,B,Renfrewshire,rental (private),12
+2017,C,Renfrewshire,rental (private),85
+2017,D,Renfrewshire,rental (private),102
+2017,E,Renfrewshire,rental (private),28
+2017,F,Renfrewshire,rental (private),6
+2017,G,Renfrewshire,rental (private),4
+2017,B,Scottish Borders,rental (private),4
+2017,C,Scottish Borders,rental (private),50
+2017,D,Scottish Borders,rental (private),65
+2017,E,Scottish Borders,rental (private),69
+2017,F,Scottish Borders,rental (private),63
+2017,G,Scottish Borders,rental (private),15
+2017,B,Shetland Islands,rental (private),1
+2017,C,Shetland Islands,rental (private),2
+2017,D,Shetland Islands,rental (private),6
+2017,E,Shetland Islands,rental (private),12
+2017,F,Shetland Islands,rental (private),3
+2017,G,Shetland Islands,rental (private),1
+2017,B,South Ayrshire,rental (private),4
+2017,C,South Ayrshire,rental (private),98
+2017,D,South Ayrshire,rental (private),93
+2017,E,South Ayrshire,rental (private),45
+2017,F,South Ayrshire,rental (private),20
+2017,G,South Ayrshire,rental (private),10
+2017,B,South Lanarkshire,rental (private),3
+2017,C,South Lanarkshire,rental (private),139
+2017,D,South Lanarkshire,rental (private),157
+2017,E,South Lanarkshire,rental (private),56
+2017,F,South Lanarkshire,rental (private),23
+2017,G,South Lanarkshire,rental (private),8
+2017,B,Stirling,rental (private),1
+2017,C,Stirling,rental (private),33
+2017,D,Stirling,rental (private),44
+2017,E,Stirling,rental (private),22
+2017,F,Stirling,rental (private),19
+2017,G,Stirling,rental (private),8
+2017,B,West Dunbartonshire,rental (private),2
+2017,C,West Dunbartonshire,rental (private),37
+2017,D,West Dunbartonshire,rental (private),40
+2017,E,West Dunbartonshire,rental (private),6
+2017,F,West Dunbartonshire,rental (private),2
+2017,A,West Lothian,rental (private),2
+2017,B,West Lothian,rental (private),3
+2017,C,West Lothian,rental (private),89
+2017,D,West Lothian,rental (private),67
+2017,E,West Lothian,rental (private),26
+2017,F,West Lothian,rental (private),2
+2017,G,West Lothian,rental (private),2
+2016,B,,rental (private),48
+2016,C,,rental (private),35
+2016,D,,rental (private),4
+2016,E,,rental (private),2
+2016,B,Aberdeen City,rental (private),16
+2016,C,Aberdeen City,rental (private),273
+2016,D,Aberdeen City,rental (private),286
+2016,E,Aberdeen City,rental (private),96
+2016,F,Aberdeen City,rental (private),30
+2016,G,Aberdeen City,rental (private),9
+2016,B,Aberdeenshire,rental (private),13
+2016,C,Aberdeenshire,rental (private),122
+2016,D,Aberdeenshire,rental (private),153
+2016,E,Aberdeenshire,rental (private),94
+2016,F,Aberdeenshire,rental (private),85
+2016,G,Aberdeenshire,rental (private),31
+2016,B,Angus,rental (private),2
+2016,C,Angus,rental (private),68
+2016,D,Angus,rental (private),74
+2016,E,Angus,rental (private),38
+2016,F,Angus,rental (private),32
+2016,G,Angus,rental (private),12
+2016,B,Argyll and Bute,rental (private),1
+2016,C,Argyll and Bute,rental (private),53
+2016,D,Argyll and Bute,rental (private),100
+2016,E,Argyll and Bute,rental (private),54
+2016,F,Argyll and Bute,rental (private),49
+2016,G,Argyll and Bute,rental (private),26
+2016,B,Clackmannanshire ,rental (private),1
+2016,C,Clackmannanshire ,rental (private),14
+2016,D,Clackmannanshire ,rental (private),19
+2016,E,Clackmannanshire ,rental (private),13
+2016,F,Clackmannanshire ,rental (private),7
+2016,C,Dumfries and Galloway,rental (private),58
+2016,D,Dumfries and Galloway,rental (private),115
+2016,E,Dumfries and Galloway,rental (private),94
+2016,F,Dumfries and Galloway,rental (private),92
+2016,G,Dumfries and Galloway,rental (private),33
+2016,B,Dundee City,rental (private),33
+2016,C,Dundee City,rental (private),384
+2016,D,Dundee City,rental (private),317
+2016,E,Dundee City,rental (private),131
+2016,F,Dundee City,rental (private),50
+2016,G,Dundee City,rental (private),13
+2016,C,East Ayrshire,rental (private),72
+2016,D,East Ayrshire,rental (private),95
+2016,E,East Ayrshire,rental (private),48
+2016,F,East Ayrshire,rental (private),11
+2016,G,East Ayrshire,rental (private),2
+2016,B,East Dunbartonshire,rental (private),2
+2016,C,East Dunbartonshire,rental (private),44
+2016,D,East Dunbartonshire,rental (private),47
+2016,E,East Dunbartonshire,rental (private),19
+2016,F,East Dunbartonshire,rental (private),3
+2016,G,East Dunbartonshire,rental (private),2
+2016,C,East Lothian,rental (private),47
+2016,D,East Lothian,rental (private),63
+2016,E,East Lothian,rental (private),37
+2016,F,East Lothian,rental (private),13
+2016,G,East Lothian,rental (private),6
+2016,B,East Renfrewshire,rental (private),1
+2016,C,East Renfrewshire,rental (private),28
+2016,D,East Renfrewshire,rental (private),26
+2016,E,East Renfrewshire,rental (private),13
+2016,F,East Renfrewshire,rental (private),1
+2016,G,East Renfrewshire,rental (private),1
+2016,B,Edinburgh City,rental (private),57
+2016,C,Edinburgh City,rental (private),733
+2016,D,Edinburgh City,rental (private),561
+2016,E,Edinburgh City,rental (private),182
+2016,F,Edinburgh City,rental (private),51
+2016,G,Edinburgh City,rental (private),9
+2016,C,Eilean Siar,rental (private),3
+2016,D,Eilean Siar,rental (private),6
+2016,E,Eilean Siar,rental (private),16
+2016,F,Eilean Siar,rental (private),20
+2016,G,Eilean Siar,rental (private),5
+2016,B,Falkirk,rental (private),1
+2016,C,Falkirk,rental (private),42
+2016,D,Falkirk,rental (private),66
+2016,E,Falkirk,rental (private),25
+2016,F,Falkirk,rental (private),10
+2016,G,Falkirk,rental (private),1
+2016,B,Fife,rental (private),12
+2016,C,Fife,rental (private),218
+2016,D,Fife,rental (private),298
+2016,E,Fife,rental (private),136
+2016,F,Fife,rental (private),50
+2016,G,Fife,rental (private),7
+2016,A,Glasgow City,rental (private),1
+2016,B,Glasgow City,rental (private),168
+2016,C,Glasgow City,rental (private),779
+2016,D,Glasgow City,rental (private),617
+2016,E,Glasgow City,rental (private),276
+2016,F,Glasgow City,rental (private),58
+2016,G,Glasgow City,rental (private),25
+2016,B,Highland,rental (private),2
+2016,C,Highland,rental (private),76
+2016,D,Highland,rental (private),156
+2016,E,Highland,rental (private),110
+2016,F,Highland,rental (private),96
+2016,G,Highland,rental (private),30
+2016,B,Inverclyde,rental (private),1
+2016,C,Inverclyde,rental (private),42
+2016,D,Inverclyde,rental (private),50
+2016,E,Inverclyde,rental (private),14
+2016,F,Inverclyde,rental (private),6
+2016,G,Inverclyde,rental (private),3
+2016,A,Midlothian,rental (private),1
+2016,C,Midlothian,rental (private),30
+2016,D,Midlothian,rental (private),38
+2016,E,Midlothian,rental (private),10
+2016,F,Midlothian,rental (private),7
+2016,B,Moray,rental (private),1
+2016,C,Moray,rental (private),37
+2016,D,Moray,rental (private),43
+2016,E,Moray,rental (private),44
+2016,F,Moray,rental (private),35
+2016,G,Moray,rental (private),13
+2016,C,North Ayrshire,rental (private),66
+2016,D,North Ayrshire,rental (private),133
+2016,E,North Ayrshire,rental (private),72
+2016,F,North Ayrshire,rental (private),23
+2016,G,North Ayrshire,rental (private),10
+2016,B,North Lanarkshire,rental (private),4
+2016,C,North Lanarkshire,rental (private),139
+2016,D,North Lanarkshire,rental (private),158
+2016,E,North Lanarkshire,rental (private),80
+2016,F,North Lanarkshire,rental (private),14
+2016,G,North Lanarkshire,rental (private),3
+2016,C,Orkney Islands,rental (private),15
+2016,D,Orkney Islands,rental (private),12
+2016,E,Orkney Islands,rental (private),8
+2016,F,Orkney Islands,rental (private),5
+2016,B,Perth and Kinross,rental (private),16
+2016,C,Perth and Kinross,rental (private),80
+2016,D,Perth and Kinross,rental (private),117
+2016,E,Perth and Kinross,rental (private),71
+2016,F,Perth and Kinross,rental (private),65
+2016,G,Perth and Kinross,rental (private),35
+2016,B,Renfrewshire,rental (private),15
+2016,C,Renfrewshire,rental (private),99
+2016,D,Renfrewshire,rental (private),105
+2016,E,Renfrewshire,rental (private),46
+2016,F,Renfrewshire,rental (private),19
+2016,G,Renfrewshire,rental (private),5
+2016,C,Scottish Borders,rental (private),39
+2016,D,Scottish Borders,rental (private),58
+2016,E,Scottish Borders,rental (private),81
+2016,F,Scottish Borders,rental (private),68
+2016,G,Scottish Borders,rental (private),22
+2016,B,Shetland Islands,rental (private),2
+2016,C,Shetland Islands,rental (private),7
+2016,D,Shetland Islands,rental (private),13
+2016,E,Shetland Islands,rental (private),5
+2016,F,Shetland Islands,rental (private),1
+2016,B,South Ayrshire,rental (private),4
+2016,C,South Ayrshire,rental (private),57
+2016,D,South Ayrshire,rental (private),69
+2016,E,South Ayrshire,rental (private),38
+2016,F,South Ayrshire,rental (private),30
+2016,G,South Ayrshire,rental (private),1
+2016,B,South Lanarkshire,rental (private),8
+2016,C,South Lanarkshire,rental (private),135
+2016,D,South Lanarkshire,rental (private),150
+2016,E,South Lanarkshire,rental (private),69
+2016,F,South Lanarkshire,rental (private),33
+2016,G,South Lanarkshire,rental (private),8
+2016,B,Stirling,rental (private),1
+2016,C,Stirling,rental (private),70
+2016,D,Stirling,rental (private),74
+2016,E,Stirling,rental (private),36
+2016,F,Stirling,rental (private),10
+2016,G,Stirling,rental (private),4
+2016,C,West Dunbartonshire,rental (private),35
+2016,D,West Dunbartonshire,rental (private),59
+2016,E,West Dunbartonshire,rental (private),39
+2016,F,West Dunbartonshire,rental (private),5
+2016,G,West Dunbartonshire,rental (private),1
+2016,A,West Lothian,rental (private),1
+2016,B,West Lothian,rental (private),23
+2016,C,West Lothian,rental (private),99
+2016,D,West Lothian,rental (private),102
+2016,E,West Lothian,rental (private),35
+2016,F,West Lothian,rental (private),9
+2016,G,West Lothian,rental (private),2
+2015,B,,rental (private),73
+2015,C,,rental (private),28
+2015,D,,rental (private),5
+2015,E,,rental (private),1
+2015,F,,rental (private),2
+2015,B,Aberdeen City,rental (private),23
+2015,C,Aberdeen City,rental (private),290
+2015,D,Aberdeen City,rental (private),275
+2015,E,Aberdeen City,rental (private),91
+2015,F,Aberdeen City,rental (private),32
+2015,G,Aberdeen City,rental (private),5
+2015,B,Aberdeenshire,rental (private),11
+2015,C,Aberdeenshire,rental (private),84
+2015,D,Aberdeenshire,rental (private),144
+2015,E,Aberdeenshire,rental (private),114
+2015,F,Aberdeenshire,rental (private),89
+2015,G,Aberdeenshire,rental (private),46
+2015,B,Angus,rental (private),3
+2015,C,Angus,rental (private),55
+2015,D,Angus,rental (private),59
+2015,E,Angus,rental (private),51
+2015,F,Angus,rental (private),39
+2015,G,Angus,rental (private),8
+2015,B,Argyll and Bute,rental (private),1
+2015,C,Argyll and Bute,rental (private),28
+2015,D,Argyll and Bute,rental (private),71
+2015,E,Argyll and Bute,rental (private),61
+2015,F,Argyll and Bute,rental (private),49
+2015,G,Argyll and Bute,rental (private),23
+2015,C,Clackmannanshire ,rental (private),14
+2015,D,Clackmannanshire ,rental (private),35
+2015,E,Clackmannanshire ,rental (private),10
+2015,F,Clackmannanshire ,rental (private),9
+2015,G,Clackmannanshire ,rental (private),7
+2015,A,Dumfries and Galloway,rental (private),1
+2015,C,Dumfries and Galloway,rental (private),63
+2015,D,Dumfries and Galloway,rental (private),145
+2015,E,Dumfries and Galloway,rental (private),139
+2015,F,Dumfries and Galloway,rental (private),97
+2015,G,Dumfries and Galloway,rental (private),35
+2015,B,Dundee City,rental (private),9
+2015,C,Dundee City,rental (private),155
+2015,D,Dundee City,rental (private),221
+2015,E,Dundee City,rental (private),88
+2015,F,Dundee City,rental (private),27
+2015,G,Dundee City,rental (private),10
+2015,A,East Ayrshire,rental (private),1
+2015,C,East Ayrshire,rental (private),62
+2015,D,East Ayrshire,rental (private),118
+2015,E,East Ayrshire,rental (private),52
+2015,F,East Ayrshire,rental (private),14
+2015,G,East Ayrshire,rental (private),8
+2015,B,East Dunbartonshire,rental (private),1
+2015,C,East Dunbartonshire,rental (private),60
+2015,D,East Dunbartonshire,rental (private),92
+2015,E,East Dunbartonshire,rental (private),22
+2015,F,East Dunbartonshire,rental (private),2
+2015,G,East Dunbartonshire,rental (private),1
+2015,B,East Lothian,rental (private),124
+2015,C,East Lothian,rental (private),77
+2015,D,East Lothian,rental (private),86
+2015,E,East Lothian,rental (private),55
+2015,F,East Lothian,rental (private),20
+2015,G,East Lothian,rental (private),10
+2015,B,East Renfrewshire,rental (private),1
+2015,C,East Renfrewshire,rental (private),22
+2015,D,East Renfrewshire,rental (private),42
+2015,E,East Renfrewshire,rental (private),18
+2015,F,East Renfrewshire,rental (private),3
+2015,G,East Renfrewshire,rental (private),1
+2015,B,Edinburgh City,rental (private),57
+2015,C,Edinburgh City,rental (private),737
+2015,D,Edinburgh City,rental (private),784
+2015,E,Edinburgh City,rental (private),267
+2015,F,Edinburgh City,rental (private),47
+2015,G,Edinburgh City,rental (private),14
+2015,C,Eilean Siar,rental (private),1
+2015,D,Eilean Siar,rental (private),8
+2015,E,Eilean Siar,rental (private),5
+2015,F,Eilean Siar,rental (private),9
+2015,G,Eilean Siar,rental (private),4
+2015,A,Falkirk,rental (private),1
+2015,B,Falkirk,rental (private),3
+2015,C,Falkirk,rental (private),40
+2015,D,Falkirk,rental (private),130
+2015,E,Falkirk,rental (private),26
+2015,F,Falkirk,rental (private),9
+2015,G,Falkirk,rental (private),2
+2015,A,Fife,rental (private),2
+2015,B,Fife,rental (private),10
+2015,C,Fife,rental (private),214
+2015,D,Fife,rental (private),346
+2015,E,Fife,rental (private),169
+2015,F,Fife,rental (private),67
+2015,G,Fife,rental (private),13
+2015,B,Glasgow City,rental (private),57
+2015,C,Glasgow City,rental (private),654
+2015,D,Glasgow City,rental (private),486
+2015,E,Glasgow City,rental (private),193
+2015,F,Glasgow City,rental (private),55
+2015,G,Glasgow City,rental (private),16
+2015,B,Highland,rental (private),3
+2015,C,Highland,rental (private),91
+2015,D,Highland,rental (private),142
+2015,E,Highland,rental (private),104
+2015,F,Highland,rental (private),103
+2015,G,Highland,rental (private),40
+2015,B,Inverclyde,rental (private),5
+2015,C,Inverclyde,rental (private),51
+2015,D,Inverclyde,rental (private),103
+2015,E,Inverclyde,rental (private),21
+2015,F,Inverclyde,rental (private),14
+2015,G,Inverclyde,rental (private),4
+2015,B,Midlothian,rental (private),1
+2015,C,Midlothian,rental (private),43
+2015,D,Midlothian,rental (private),62
+2015,E,Midlothian,rental (private),34
+2015,F,Midlothian,rental (private),15
+2015,G,Midlothian,rental (private),5
+2015,B,Moray,rental (private),4
+2015,C,Moray,rental (private),35
+2015,D,Moray,rental (private),60
+2015,E,Moray,rental (private),42
+2015,F,Moray,rental (private),42
+2015,G,Moray,rental (private),15
+2015,B,North Ayrshire,rental (private),3
+2015,C,North Ayrshire,rental (private),117
+2015,D,North Ayrshire,rental (private),177
+2015,E,North Ayrshire,rental (private),71
+2015,F,North Ayrshire,rental (private),30
+2015,G,North Ayrshire,rental (private),14
+2015,B,North Lanarkshire,rental (private),4
+2015,C,North Lanarkshire,rental (private),144
+2015,D,North Lanarkshire,rental (private),225
+2015,E,North Lanarkshire,rental (private),91
+2015,F,North Lanarkshire,rental (private),20
+2015,G,North Lanarkshire,rental (private),3
+2015,C,Orkney Islands,rental (private),8
+2015,D,Orkney Islands,rental (private),16
+2015,E,Orkney Islands,rental (private),5
+2015,F,Orkney Islands,rental (private),2
+2015,B,Perth and Kinross,rental (private),10
+2015,C,Perth and Kinross,rental (private),105
+2015,D,Perth and Kinross,rental (private),120
+2015,E,Perth and Kinross,rental (private),78
+2015,F,Perth and Kinross,rental (private),53
+2015,G,Perth and Kinross,rental (private),16
+2015,B,Renfrewshire,rental (private),5
+2015,C,Renfrewshire,rental (private),89
+2015,D,Renfrewshire,rental (private),150
+2015,E,Renfrewshire,rental (private),56
+2015,F,Renfrewshire,rental (private),15
+2015,G,Renfrewshire,rental (private),2
+2015,B,Scottish Borders,rental (private),3
+2015,C,Scottish Borders,rental (private),41
+2015,D,Scottish Borders,rental (private),89
+2015,E,Scottish Borders,rental (private),76
+2015,F,Scottish Borders,rental (private),46
+2015,G,Scottish Borders,rental (private),17
+2015,C,Shetland Islands,rental (private),9
+2015,D,Shetland Islands,rental (private),13
+2015,E,Shetland Islands,rental (private),10
+2015,F,Shetland Islands,rental (private),6
+2015,G,Shetland Islands,rental (private),2
+2015,B,South Ayrshire,rental (private),1
+2015,C,South Ayrshire,rental (private),62
+2015,D,South Ayrshire,rental (private),97
+2015,E,South Ayrshire,rental (private),40
+2015,F,South Ayrshire,rental (private),27
+2015,G,South Ayrshire,rental (private),4
+2015,B,South Lanarkshire,rental (private),8
+2015,C,South Lanarkshire,rental (private),153
+2015,D,South Lanarkshire,rental (private),207
+2015,E,South Lanarkshire,rental (private),88
+2015,F,South Lanarkshire,rental (private),25
+2015,G,South Lanarkshire,rental (private),14
+2015,B,Stirling,rental (private),2
+2015,C,Stirling,rental (private),28
+2015,D,Stirling,rental (private),54
+2015,E,Stirling,rental (private),23
+2015,F,Stirling,rental (private),11
+2015,G,Stirling,rental (private),3
+2015,C,West Dunbartonshire,rental (private),22
+2015,D,West Dunbartonshire,rental (private),32
+2015,E,West Dunbartonshire,rental (private),12
+2015,F,West Dunbartonshire,rental (private),2
+2015,G,West Dunbartonshire,rental (private),1
+2015,A,West Lothian,rental (private),1
+2015,B,West Lothian,rental (private),4
+2015,C,West Lothian,rental (private),101
+2015,D,West Lothian,rental (private),189
+2015,E,West Lothian,rental (private),44
+2015,F,West Lothian,rental (private),9
+2015,G,West Lothian,rental (private),4
+2014,B,,rental (private),16
+2014,C,,rental (private),30
+2014,D,,rental (private),3
+2014,E,,rental (private),2
+2014,G,00EM,rental (private),1
+2014,B,Aberdeen City,rental (private),17
+2014,C,Aberdeen City,rental (private),266
+2014,D,Aberdeen City,rental (private),233
+2014,E,Aberdeen City,rental (private),77
+2014,F,Aberdeen City,rental (private),18
+2014,G,Aberdeen City,rental (private),3
+2014,B,Aberdeenshire,rental (private),6
+2014,C,Aberdeenshire,rental (private),117
+2014,D,Aberdeenshire,rental (private),190
+2014,E,Aberdeenshire,rental (private),118
+2014,F,Aberdeenshire,rental (private),69
+2014,G,Aberdeenshire,rental (private),24
+2014,A,Angus,rental (private),1
+2014,B,Angus,rental (private),3
+2014,C,Angus,rental (private),68
+2014,D,Angus,rental (private),133
+2014,E,Angus,rental (private),67
+2014,F,Angus,rental (private),29
+2014,G,Angus,rental (private),16
+2014,B,Argyll and Bute,rental (private),2
+2014,C,Argyll and Bute,rental (private),49
+2014,D,Argyll and Bute,rental (private),105
+2014,E,Argyll and Bute,rental (private),76
+2014,F,Argyll and Bute,rental (private),59
+2014,G,Argyll and Bute,rental (private),23
+2014,B,Clackmannanshire ,rental (private),2
+2014,C,Clackmannanshire ,rental (private),35
+2014,D,Clackmannanshire ,rental (private),35
+2014,E,Clackmannanshire ,rental (private),10
+2014,F,Clackmannanshire ,rental (private),3
+2014,G,Clackmannanshire ,rental (private),1
+2014,B,Dumfries and Galloway,rental (private),4
+2014,C,Dumfries and Galloway,rental (private),90
+2014,D,Dumfries and Galloway,rental (private),181
+2014,E,Dumfries and Galloway,rental (private),137
+2014,F,Dumfries and Galloway,rental (private),66
+2014,G,Dumfries and Galloway,rental (private),21
+2014,B,Dundee City,rental (private),14
+2014,C,Dundee City,rental (private),218
+2014,D,Dundee City,rental (private),257
+2014,E,Dundee City,rental (private),122
+2014,F,Dundee City,rental (private),51
+2014,G,Dundee City,rental (private),15
+2014,B,East Ayrshire,rental (private),2
+2014,C,East Ayrshire,rental (private),125
+2014,D,East Ayrshire,rental (private),177
+2014,E,East Ayrshire,rental (private),54
+2014,F,East Ayrshire,rental (private),6
+2014,G,East Ayrshire,rental (private),6
+2014,B,East Dunbartonshire,rental (private),1
+2014,C,East Dunbartonshire,rental (private),43
+2014,D,East Dunbartonshire,rental (private),61
+2014,E,East Dunbartonshire,rental (private),20
+2014,F,East Dunbartonshire,rental (private),4
+2014,B,East Lothian,rental (private),3
+2014,C,East Lothian,rental (private),64
+2014,D,East Lothian,rental (private),124
+2014,E,East Lothian,rental (private),68
+2014,F,East Lothian,rental (private),24
+2014,G,East Lothian,rental (private),8
+2014,C,East Renfrewshire,rental (private),62
+2014,D,East Renfrewshire,rental (private),52
+2014,E,East Renfrewshire,rental (private),27
+2014,F,East Renfrewshire,rental (private),7
+2014,G,East Renfrewshire,rental (private),3
+2014,B,Edinburgh City,rental (private),94
+2014,C,Edinburgh City,rental (private),1053
+2014,D,Edinburgh City,rental (private),889
+2014,E,Edinburgh City,rental (private),291
+2014,F,Edinburgh City,rental (private),53
+2014,G,Edinburgh City,rental (private),17
+2014,C,Eilean Siar,rental (private),8
+2014,D,Eilean Siar,rental (private),12
+2014,E,Eilean Siar,rental (private),6
+2014,F,Eilean Siar,rental (private),10
+2014,G,Eilean Siar,rental (private),4
+2014,B,Falkirk,rental (private),9
+2014,C,Falkirk,rental (private),73
+2014,D,Falkirk,rental (private),108
+2014,E,Falkirk,rental (private),30
+2014,F,Falkirk,rental (private),6
+2014,G,Falkirk,rental (private),2
+2014,B,Fife,rental (private),15
+2014,C,Fife,rental (private),356
+2014,D,Fife,rental (private),539
+2014,E,Fife,rental (private),169
+2014,F,Fife,rental (private),59
+2014,G,Fife,rental (private),7
+2014,B,Glasgow City,rental (private),190
+2014,C,Glasgow City,rental (private),832
+2014,D,Glasgow City,rental (private),809
+2014,E,Glasgow City,rental (private),274
+2014,F,Glasgow City,rental (private),66
+2014,G,Glasgow City,rental (private),31
+2014,B,Highland,rental (private),6
+2014,C,Highland,rental (private),93
+2014,D,Highland,rental (private),158
+2014,E,Highland,rental (private),113
+2014,F,Highland,rental (private),62
+2014,G,Highland,rental (private),21
+2014,C,Inverclyde,rental (private),43
+2014,D,Inverclyde,rental (private),101
+2014,E,Inverclyde,rental (private),37
+2014,F,Inverclyde,rental (private),13
+2014,G,Inverclyde,rental (private),14
+2014,C,Midlothian,rental (private),57
+2014,D,Midlothian,rental (private),59
+2014,E,Midlothian,rental (private),29
+2014,F,Midlothian,rental (private),10
+2014,G,Midlothian,rental (private),1
+2014,B,Moray,rental (private),7
+2014,C,Moray,rental (private),66
+2014,D,Moray,rental (private),63
+2014,E,Moray,rental (private),67
+2014,F,Moray,rental (private),28
+2014,G,Moray,rental (private),3
+2014,B,North Ayrshire,rental (private),6
+2014,C,North Ayrshire,rental (private),130
+2014,D,North Ayrshire,rental (private),196
+2014,E,North Ayrshire,rental (private),78
+2014,F,North Ayrshire,rental (private),20
+2014,G,North Ayrshire,rental (private),8
+2014,B,North Lanarkshire,rental (private),10
+2014,C,North Lanarkshire,rental (private),212
+2014,D,North Lanarkshire,rental (private),280
+2014,E,North Lanarkshire,rental (private),98
+2014,F,North Lanarkshire,rental (private),20
+2014,G,North Lanarkshire,rental (private),5
+2014,B,Orkney Islands,rental (private),2
+2014,C,Orkney Islands,rental (private),27
+2014,D,Orkney Islands,rental (private),19
+2014,E,Orkney Islands,rental (private),13
+2014,F,Orkney Islands,rental (private),2
+2014,G,Orkney Islands,rental (private),3
+2014,A,Perth and Kinross,rental (private),1
+2014,B,Perth and Kinross,rental (private),3
+2014,C,Perth and Kinross,rental (private),100
+2014,D,Perth and Kinross,rental (private),157
+2014,E,Perth and Kinross,rental (private),124
+2014,F,Perth and Kinross,rental (private),46
+2014,G,Perth and Kinross,rental (private),17
+2014,B,Renfrewshire,rental (private),16
+2014,C,Renfrewshire,rental (private),168
+2014,D,Renfrewshire,rental (private),242
+2014,E,Renfrewshire,rental (private),60
+2014,F,Renfrewshire,rental (private),17
+2014,G,Renfrewshire,rental (private),8
+2014,B,Scottish Borders,rental (private),7
+2014,C,Scottish Borders,rental (private),70
+2014,D,Scottish Borders,rental (private),106
+2014,E,Scottish Borders,rental (private),64
+2014,F,Scottish Borders,rental (private),43
+2014,G,Scottish Borders,rental (private),11
+2014,C,Shetland Islands,rental (private),11
+2014,D,Shetland Islands,rental (private),27
+2014,E,Shetland Islands,rental (private),8
+2014,F,Shetland Islands,rental (private),3
+2014,G,Shetland Islands,rental (private),1
+2014,B,South Ayrshire,rental (private),4
+2014,C,South Ayrshire,rental (private),134
+2014,D,South Ayrshire,rental (private),134
+2014,E,South Ayrshire,rental (private),55
+2014,F,South Ayrshire,rental (private),30
+2014,G,South Ayrshire,rental (private),11
+2014,B,South Lanarkshire,rental (private),13
+2014,C,South Lanarkshire,rental (private),246
+2014,D,South Lanarkshire,rental (private),270
+2014,E,South Lanarkshire,rental (private),119
+2014,F,South Lanarkshire,rental (private),30
+2014,G,South Lanarkshire,rental (private),5
+2014,B,Stirling,rental (private),5
+2014,C,Stirling,rental (private),80
+2014,D,Stirling,rental (private),72
+2014,E,Stirling,rental (private),31
+2014,F,Stirling,rental (private),18
+2014,G,Stirling,rental (private),3
+2014,B,West Dunbartonshire,rental (private),1
+2014,C,West Dunbartonshire,rental (private),43
+2014,D,West Dunbartonshire,rental (private),51
+2014,E,West Dunbartonshire,rental (private),14
+2014,F,West Dunbartonshire,rental (private),5
+2014,A,West Lothian,rental (private),1
+2014,B,West Lothian,rental (private),10
+2014,C,West Lothian,rental (private),110
+2014,D,West Lothian,rental (private),146
+2014,E,West Lothian,rental (private),41
+2014,F,West Lothian,rental (private),9
+2013,B,,rental (private),15
+2013,C,,rental (private),18
+2013,D,,rental (private),2
+2013,F,,rental (private),3
+2013,B,Aberdeen City,rental (private),25
+2013,C,Aberdeen City,rental (private),340
+2013,D,Aberdeen City,rental (private),277
+2013,E,Aberdeen City,rental (private),79
+2013,F,Aberdeen City,rental (private),14
+2013,G,Aberdeen City,rental (private),4
+2013,A,Aberdeenshire,rental (private),1
+2013,B,Aberdeenshire,rental (private),4
+2013,C,Aberdeenshire,rental (private),135
+2013,D,Aberdeenshire,rental (private),121
+2013,E,Aberdeenshire,rental (private),79
+2013,F,Aberdeenshire,rental (private),64
+2013,G,Aberdeenshire,rental (private),18
+2013,B,Angus,rental (private),5
+2013,C,Angus,rental (private),70
+2013,D,Angus,rental (private),108
+2013,E,Angus,rental (private),71
+2013,F,Angus,rental (private),34
+2013,G,Angus,rental (private),19
+2013,A,Argyll and Bute,rental (private),1
+2013,B,Argyll and Bute,rental (private),3
+2013,C,Argyll and Bute,rental (private),53
+2013,D,Argyll and Bute,rental (private),68
+2013,E,Argyll and Bute,rental (private),61
+2013,F,Argyll and Bute,rental (private),54
+2013,G,Argyll and Bute,rental (private),15
+2013,B,Clackmannanshire ,rental (private),2
+2013,C,Clackmannanshire ,rental (private),25
+2013,D,Clackmannanshire ,rental (private),25
+2013,E,Clackmannanshire ,rental (private),14
+2013,F,Clackmannanshire ,rental (private),3
+2013,B,Dumfries and Galloway,rental (private),1
+2013,C,Dumfries and Galloway,rental (private),100
+2013,D,Dumfries and Galloway,rental (private),196
+2013,E,Dumfries and Galloway,rental (private),133
+2013,F,Dumfries and Galloway,rental (private),61
+2013,G,Dumfries and Galloway,rental (private),8
+2013,B,Dundee City,rental (private),27
+2013,C,Dundee City,rental (private),249
+2013,D,Dundee City,rental (private),260
+2013,E,Dundee City,rental (private),79
+2013,F,Dundee City,rental (private),33
+2013,G,Dundee City,rental (private),8
+2013,B,East Ayrshire,rental (private),7
+2013,C,East Ayrshire,rental (private),91
+2013,D,East Ayrshire,rental (private),135
+2013,E,East Ayrshire,rental (private),58
+2013,F,East Ayrshire,rental (private),17
+2013,G,East Ayrshire,rental (private),1
+2013,B,East Dunbartonshire,rental (private),4
+2013,C,East Dunbartonshire,rental (private),43
+2013,D,East Dunbartonshire,rental (private),57
+2013,E,East Dunbartonshire,rental (private),16
+2013,F,East Dunbartonshire,rental (private),3
+2013,B,East Lothian,rental (private),1
+2013,C,East Lothian,rental (private),57
+2013,D,East Lothian,rental (private),89
+2013,E,East Lothian,rental (private),45
+2013,F,East Lothian,rental (private),9
+2013,G,East Lothian,rental (private),6
+2013,C,East Renfrewshire,rental (private),33
+2013,D,East Renfrewshire,rental (private),58
+2013,E,East Renfrewshire,rental (private),25
+2013,F,East Renfrewshire,rental (private),3
+2013,G,East Renfrewshire,rental (private),2
+2013,B,Edinburgh City,rental (private),160
+2013,C,Edinburgh City,rental (private),929
+2013,D,Edinburgh City,rental (private),833
+2013,E,Edinburgh City,rental (private),268
+2013,F,Edinburgh City,rental (private),52
+2013,G,Edinburgh City,rental (private),5
+2013,C,Eilean Siar,rental (private),4
+2013,D,Eilean Siar,rental (private),7
+2013,E,Eilean Siar,rental (private),7
+2013,F,Eilean Siar,rental (private),5
+2013,B,Falkirk,rental (private),4
+2013,C,Falkirk,rental (private),113
+2013,D,Falkirk,rental (private),97
+2013,E,Falkirk,rental (private),32
+2013,F,Falkirk,rental (private),6
+2013,B,Fife,rental (private),12
+2013,C,Fife,rental (private),228
+2013,D,Fife,rental (private),360
+2013,E,Fife,rental (private),163
+2013,F,Fife,rental (private),24
+2013,G,Fife,rental (private),5
+2013,B,Glasgow City,rental (private),145
+2013,C,Glasgow City,rental (private),903
+2013,D,Glasgow City,rental (private),748
+2013,E,Glasgow City,rental (private),272
+2013,F,Glasgow City,rental (private),56
+2013,G,Glasgow City,rental (private),13
+2013,A,Highland,rental (private),2
+2013,B,Highland,rental (private),8
+2013,C,Highland,rental (private),118
+2013,D,Highland,rental (private),140
+2013,E,Highland,rental (private),97
+2013,F,Highland,rental (private),57
+2013,G,Highland,rental (private),12
+2013,B,Inverclyde,rental (private),2
+2013,C,Inverclyde,rental (private),43
+2013,D,Inverclyde,rental (private),56
+2013,E,Inverclyde,rental (private),36
+2013,F,Inverclyde,rental (private),16
+2013,B,Midlothian,rental (private),1
+2013,C,Midlothian,rental (private),37
+2013,D,Midlothian,rental (private),59
+2013,E,Midlothian,rental (private),21
+2013,F,Midlothian,rental (private),7
+2013,G,Midlothian,rental (private),2
+2013,B,Moray,rental (private),1
+2013,C,Moray,rental (private),70
+2013,D,Moray,rental (private),73
+2013,E,Moray,rental (private),53
+2013,F,Moray,rental (private),18
+2013,G,Moray,rental (private),2
+2013,B,North Ayrshire,rental (private),2
+2013,C,North Ayrshire,rental (private),119
+2013,D,North Ayrshire,rental (private),195
+2013,E,North Ayrshire,rental (private),59
+2013,F,North Ayrshire,rental (private),14
+2013,G,North Ayrshire,rental (private),3
+2013,B,North Lanarkshire,rental (private),3
+2013,C,North Lanarkshire,rental (private),202
+2013,D,North Lanarkshire,rental (private),292
+2013,E,North Lanarkshire,rental (private),93
+2013,F,North Lanarkshire,rental (private),21
+2013,G,North Lanarkshire,rental (private),1
+2013,C,Orkney Islands,rental (private),10
+2013,D,Orkney Islands,rental (private),19
+2013,E,Orkney Islands,rental (private),7
+2013,F,Orkney Islands,rental (private),2
+2013,G,Orkney Islands,rental (private),1
+2013,B,Perth and Kinross,rental (private),2
+2013,C,Perth and Kinross,rental (private),121
+2013,D,Perth and Kinross,rental (private),153
+2013,E,Perth and Kinross,rental (private),111
+2013,F,Perth and Kinross,rental (private),32
+2013,G,Perth and Kinross,rental (private),11
+2013,B,Renfrewshire,rental (private),16
+2013,C,Renfrewshire,rental (private),103
+2013,D,Renfrewshire,rental (private),139
+2013,E,Renfrewshire,rental (private),46
+2013,F,Renfrewshire,rental (private),10
+2013,G,Renfrewshire,rental (private),2
+2013,B,Scottish Borders,rental (private),3
+2013,C,Scottish Borders,rental (private),54
+2013,D,Scottish Borders,rental (private),103
+2013,E,Scottish Borders,rental (private),75
+2013,F,Scottish Borders,rental (private),43
+2013,G,Scottish Borders,rental (private),18
+2013,C,Shetland Islands,rental (private),5
+2013,D,Shetland Islands,rental (private),6
+2013,E,Shetland Islands,rental (private),6
+2013,B,South Ayrshire,rental (private),6
+2013,C,South Ayrshire,rental (private),91
+2013,D,South Ayrshire,rental (private),146
+2013,E,South Ayrshire,rental (private),60
+2013,F,South Ayrshire,rental (private),25
+2013,G,South Ayrshire,rental (private),12
+2013,B,South Lanarkshire,rental (private),14
+2013,C,South Lanarkshire,rental (private),196
+2013,D,South Lanarkshire,rental (private),252
+2013,E,South Lanarkshire,rental (private),69
+2013,F,South Lanarkshire,rental (private),21
+2013,G,South Lanarkshire,rental (private),3
+2013,B,Stirling,rental (private),1
+2013,C,Stirling,rental (private),47
+2013,D,Stirling,rental (private),72
+2013,E,Stirling,rental (private),38
+2013,F,Stirling,rental (private),8
+2013,G,Stirling,rental (private),3
+2013,C,West Dunbartonshire,rental (private),34
+2013,D,West Dunbartonshire,rental (private),47
+2013,E,West Dunbartonshire,rental (private),21
+2013,F,West Dunbartonshire,rental (private),10
+2013,G,West Dunbartonshire,rental (private),1
+2013,B,West Lothian,rental (private),10
+2013,C,West Lothian,rental (private),154
+2013,D,West Lothian,rental (private),150
+2013,E,West Lothian,rental (private),36
+2013,F,West Lothian,rental (private),5
+2013,G,West Lothian,rental (private),1

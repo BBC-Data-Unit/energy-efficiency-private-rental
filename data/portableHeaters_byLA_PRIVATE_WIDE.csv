@@ -1,0 +1,332 @@
+"","currentLAlabel","No2ndHeat","Yes2ndHeat","tenureclean","Perc2ndHeat"
+"1","York",5840,3084,"rental (private)",0.345584939489018
+"2","Wyre Forest",1297,1355,"rental (private)",0.510935143288084
+"3","Wyre",1814,1267,"rental (private)",0.41123012009088
+"4","Wychavon",2586,1528,"rental (private)",0.371414681575109
+"5","Wrexham",1763,1279,"rental (private)",0.420447074293228
+"6","Worthing",2578,1293,"rental (private)",0.334022216481529
+"7","Worcester",2709,948,"rental (private)",0.259228876127974
+"8","Wolverhampton",4029,1498,"rental (private)",0.271033110186358
+"9","Wokingham",2688,1056,"rental (private)",0.282051282051282
+"10","Woking",3526,712,"rental (private)",0.168003775365739
+"11","Wirral",6827,2896,"rental (private)",0.297850457677671
+"12","Windsor and Maidenhead",3601,1476,"rental (private)",0.290722867835336
+"13","Winchester",2527,1257,"rental (private)",0.332188160676533
+"14","Wiltshire",8723,6765,"rental (private)",0.436789772727273
+"15","Wigan",5376,2581,"rental (private)",0.324368480583134
+"16","Westminster",22425,2456,"rental (private)",0.0987098589284997
+"17","West Suffolk",5648,2655,"rental (private)",0.319763940744309
+"18","West Oxfordshire",2264,2075,"rental (private)",0.478220788200046
+"19","West Northamptonshire",9491,4635,"rental (private)",0.328118363301713
+"20","West Lindsey",1805,1295,"rental (private)",0.417741935483871
+"21","West Lancashire",1002,486,"rental (private)",0.326612903225806
+"22","West Devon",910,982,"rental (private)",0.519027484143763
+"23","West Berkshire",2954,1948,"rental (private)",0.397388820889433
+"24","Welwyn Hatfield",2970,699,"rental (private)",0.190515126737531
+"25","Wealden",1760,938,"rental (private)",0.347664936990363
+"26","Waverley",1730,765,"rental (private)",0.306613226452906
+"27","Watford",3744,929,"rental (private)",0.19880162636422
+"28","Warwick",4312,1920,"rental (private)",0.30808729139923
+"29","Warrington",3657,1513,"rental (private)",0.292649903288201
+"30","Wandsworth",18596,2713,"rental (private)",0.127317096062697
+"31","Waltham Forest",13385,1377,"rental (private)",0.093280043354559
+"32","Walsall",4363,1627,"rental (private)",0.271619365609349
+"33","Wakefield",4783,3197,"rental (private)",0.40062656641604
+"34","Vale of White Horse",2189,1638,"rental (private)",0.428011497256337
+"35","Vale of Glamorgan",2945,1042,"rental (private)",0.261349385502884
+"36","Uttlesford",1057,770,"rental (private)",0.421455938697318
+"37","Tunbridge Wells",2317,1304,"rental (private)",0.36012151339409
+"38","Trafford",4228,1642,"rental (private)",0.279727427597956
+"39","Tower Hamlets",21637,3323,"rental (private)",0.133133012820513
+"40","Torridge",1294,1120,"rental (private)",0.463960231980116
+"41","Torfaen",820,393,"rental (private)",0.3239901071723
+"42","Torbay",4632,2142,"rental (private)",0.316209034543844
+"43","Tonbridge and Malling",1779,746,"rental (private)",0.295445544554455
+"44","Thurrock",3059,1432,"rental (private)",0.318859942106435
+"45","Three Rivers",1392,505,"rental (private)",0.266209804955192
+"46","Thanet",5253,1103,"rental (private)",0.1735368156073
+"47","Tewkesbury",1356,1043,"rental (private)",0.434764485202168
+"48","Test Valley",1880,1167,"rental (private)",0.382999671808336
+"49","Tendring",3517,1955,"rental (private)",0.357273391812865
+"50","Telford and Wrekin",3611,1606,"rental (private)",0.307839754648265
+"51","Teignbridge",2072,1719,"rental (private)",0.453442363492482
+"52","Tandridge",1139,432,"rental (private)",0.274984086569064
+"53","Tamworth",803,441,"rental (private)",0.354501607717042
+"54","Tameside",3408,1627,"rental (private)",0.323138033763654
+"55","Swindon",5122,1443,"rental (private)",0.21980198019802
+"56","Swansea",6861,1870,"rental (private)",0.21417936089795
+"57","Swale",3229,1252,"rental (private)",0.279401919214461
+"58","Sutton",4743,1029,"rental (private)",0.178274428274428
+"59","Surrey Heath",1375,428,"rental (private)",0.237382140876317
+"60","Sunderland",4482,1626,"rental (private)",0.266208251473477
+"61","Stroud",1560,1221,"rental (private)",0.439050701186624
+"62","Stratford-on-Avon",1934,1700,"rental (private)",0.467804072647221
+"63","Stoke-on-Trent",5466,2213,"rental (private)",0.28818856621956
+"64","Stockton-on-Tees",3233,1620,"rental (private)",0.333814135586235
+"65","Stockport",3820,1582,"rental (private)",0.29285449833395
+"66","Stevenage",1369,408,"rental (private)",0.229600450196961
+"67","Staffordshire Moorlands",828,756,"rental (private)",0.477272727272727
+"68","Stafford",1542,1355,"rental (private)",0.467725232999655
+"69","St. Helens",2640,1360,"rental (private)",0.34
+"70","St Albans",2900,1199,"rental (private)",0.292510368382532
+"71","Spelthorne",2127,551,"rental (private)",0.205750560119492
+"72","Southwark",13757,2093,"rental (private)",0.13205047318612
+"73","Southend-on-Sea",7198,1676,"rental (private)",0.188866351138156
+"74","Southampton",10151,3277,"rental (private)",0.244042299672326
+"75","South Tyneside",1546,835,"rental (private)",0.350692986140277
+"76","South Staffordshire",683,764,"rental (private)",0.527988942639945
+"77","South Somerset",2529,2175,"rental (private)",0.462372448979592
+"78","South Ribble",1136,768,"rental (private)",0.403361344537815
+"79","South Oxfordshire",2342,1770,"rental (private)",0.430447470817121
+"80","South Norfolk",1793,1483,"rental (private)",0.452686202686203
+"81","South Lakeland",1446,1736,"rental (private)",0.545568824638592
+"82","South Kesteven",2801,1977,"rental (private)",0.413771452490582
+"83","South Holland",1437,835,"rental (private)",0.367517605633803
+"84","South Hams",1275,1361,"rental (private)",0.516312594840668
+"85","South Gloucestershire",4709,2157,"rental (private)",0.314156714244101
+"86","South Derbyshire",1758,967,"rental (private)",0.354862385321101
+"87","South Cambridgeshire",2274,1176,"rental (private)",0.340869565217391
+"88","Somerset West and Taunton",2820,2359,"rental (private)",0.455493338482332
+"89","Solihull",3252,1008,"rental (private)",0.236619718309859
+"90","Slough",4509,1296,"rental (private)",0.223255813953488
+"91","Shropshire",3921,4350,"rental (private)",0.525933986216902
+"92","Sheffield",13639,3554,"rental (private)",0.206712033967312
+"93","Sevenoaks",1346,729,"rental (private)",0.351325301204819
+"94","Selby",1036,1005,"rental (private)",0.492405683488486
+"95","Sefton",5804,1807,"rental (private)",0.237419524372619
+"96","Sedgemoor",1908,1357,"rental (private)",0.4156202143951
+"97","Scarborough",2911,2260,"rental (private)",0.437052794430478
+"98","Sandwell",5691,1934,"rental (private)",0.253639344262295
+"99","Salford",10140,2087,"rental (private)",0.170687822033205
+"100","Ryedale",534,1218,"rental (private)",0.695205479452055
+"101","Rutland",388,723,"rental (private)",0.650765076507651
+"102","Rushmoor",1836,633,"rental (private)",0.256379100850547
+"103","Rushcliffe",2091,1129,"rental (private)",0.350621118012422
+"104","Runnymede",2055,609,"rental (private)",0.228603603603604
+"105","Rugby",2298,1075,"rental (private)",0.318707382152387
+"106","Rotherham",3957,1882,"rental (private)",0.32231546497688
+"107","Rother",1908,973,"rental (private)",0.337729954876779
+"108","Rossendale",888,527,"rental (private)",0.37243816254417
+"109","Rochford",958,376,"rental (private)",0.281859070464768
+"110","Rochdale",3296,1217,"rental (private)",0.269665411034788
+"111","Richmondshire",521,1485,"rental (private)",0.740279162512463
+"112","Richmond upon Thames",7578,1812,"rental (private)",0.19297124600639
+"113","Ribble Valley",541,579,"rental (private)",0.516964285714286
+"114","Rhondda Cynon Taf",5148,1435,"rental (private)",0.21798572079599
+"115","Reigate and Banstead",2902,828,"rental (private)",0.221983914209115
+"116","Redditch",1414,416,"rental (private)",0.227322404371585
+"117","Redcar and Cleveland",2043,1404,"rental (private)",0.407310704960835
+"118","Redbridge",13676,1692,"rental (private)",0.110098906819365
+"119","Reading",9159,2283,"rental (private)",0.19952805453592
+"120","Preston",3355,1236,"rental (private)",0.269222391635809
+"121","Powys",1900,1753,"rental (private)",0.479879551053928
+"122","Portsmouth",9586,2447,"rental (private)",0.203357433723926
+"123","Plymouth",8561,3142,"rental (private)",0.268478167991113
+"124","Peterborough",5565,2169,"rental (private)",0.280449961210241
+"125","Pendle",1635,1089,"rental (private)",0.399779735682819
+"126","Pembrokeshire",2133,1621,"rental (private)",0.431806073521577
+"127","Oxford",7093,2049,"rental (private)",0.224130387223802
+"128","Oldham",2942,1388,"rental (private)",0.320554272517321
+"129","Oadby and Wigston",775,437,"rental (private)",0.360561056105611
+"130","Nuneaton and Bedworth",2084,1223,"rental (private)",0.369821590565467
+"131","Nottingham",17796,5257,"rental (private)",0.228039734524791
+"132","Norwich",6238,2020,"rental (private)",0.244611286025672
+"133","Northumberland",3788,2537,"rental (private)",0.401106719367589
+"134","North West Leicestershire",1492,954,"rental (private)",0.390024529844644
+"135","North Warwickshire",742,625,"rental (private)",0.457205559619605
+"136","North Tyneside",3591,1090,"rental (private)",0.232856227301859
+"137","North Somerset",4324,2127,"rental (private)",0.32971632305069
+"138","North Northamptonshire",8211,3421,"rental (private)",0.294102475928473
+"139","North Norfolk",1578,1886,"rental (private)",0.54445727482679
+"140","North Lincolnshire",2909,1382,"rental (private)",0.322069447681193
+"141","North Kesteven",1378,1471,"rental (private)",0.516321516321516
+"142","North Hertfordshire",2281,1389,"rental (private)",0.378474114441417
+"143","North East Lincolnshire",3890,2181,"rental (private)",0.359248888156811
+"144","North East Derbyshire",644,559,"rental (private)",0.464671654197839
+"145","North Devon",3092,1279,"rental (private)",0.292610386639213
+"146","Newport",2013,510,"rental (private)",0.202140309155767
+"147","Newham",17133,1326,"rental (private)",0.0718348772956282
+"148","Newcastle-under-Lyme",1692,1073,"rental (private)",0.388065099457505
+"149","Newcastle upon Tyne",10816,3149,"rental (private)",0.225492302184032
+"150","Newark and Sherwood",1736,1406,"rental (private)",0.447485677912158
+"151","New Forest",2283,1750,"rental (private)",0.433920158690801
+"152","Neath Port Talbot",2296,661,"rental (private)",0.223537368955022
+"153","Monmouthshire",1108,631,"rental (private)",0.362852213916044
+"154","Mole Valley",1472,727,"rental (private)",0.330604820372897
+"155","Milton Keynes",6644,1802,"rental (private)",0.213355434525219
+"156","Middlesbrough",2785,1011,"rental (private)",0.266332982086407
+"157","Mid Sussex",2072,853,"rental (private)",0.291623931623932
+"158","Mid Suffolk",1249,1008,"rental (private)",0.446610544971201
+"159","Mid Devon",1395,1156,"rental (private)",0.453155625245002
+"160","Merton",8846,1416,"rental (private)",0.137984798284935
+"161","Merthyr Tydfil",1317,238,"rental (private)",0.153054662379421
+"162","Mendip",2147,1498,"rental (private)",0.410973936899863
+"163","Melton",629,765,"rental (private)",0.548780487804878
+"164","Medway",6576,1584,"rental (private)",0.194117647058824
+"165","Mansfield",1979,1022,"rental (private)",0.34055314895035
+"166","Manchester",25901,4845,"rental (private)",0.15758147401288
+"167","Malvern Hills",979,772,"rental (private)",0.440890919474586
+"168","Maldon",577,420,"rental (private)",0.421263791374122
+"169","Maidstone",3422,1390,"rental (private)",0.288861180382377
+"170","Luton",7065,1635,"rental (private)",0.187931034482759
+"171","Liverpool",19069,4070,"rental (private)",0.175893513116384
+"172","Lincoln",4127,1376,"rental (private)",0.250045429765582
+"173","Lichfield",1123,765,"rental (private)",0.405190677966102
+"174","Lewisham",12350,1681,"rental (private)",0.119806143539306
+"175","Lewes",1536,693,"rental (private)",0.310901749663526
+"176","Leicester",12054,3322,"rental (private)",0.21605098855359
+"177","Leeds",24320,8279,"rental (private)",0.253964845547409
+"178","Lancaster",3223,1960,"rental (private)",0.378159367161875
+"179","Lambeth",17983,1618,"rental (private)",0.0825468088362839
+"180","Knowsley",1821,674,"rental (private)",0.270140280561122
+"181","Kirklees",6766,4225,"rental (private)",0.384405422618506
+"182","Kingston upon Thames",5954,1187,"rental (private)",0.16622321803669
+"183","Kingston upon Hull, City of",8910,3316,"rental (private)",0.271225257647636
+"184","King's Lynn and West Norfolk",2426,2397,"rental (private)",0.496993572465271
+"185","Kensington and Chelsea",14482,2329,"rental (private)",0.138540241508536
+"186","Islington",15404,1171,"rental (private)",0.0706485671191553
+"187","Isles of Scilly",39,50,"rental (private)",0.561797752808989
+"188","Isle of Wight",3337,1035,"rental (private)",0.236733760292772
+"189","Isle of Anglesey",1046,1269,"rental (private)",0.548164146868251
+"190","Ipswich",4366,1382,"rental (private)",0.240431454418928
+"191","Hyndburn",1643,884,"rental (private)",0.349821923229125
+"192","Huntingdonshire",3713,1537,"rental (private)",0.292761904761905
+"193","Hounslow",10846,1471,"rental (private)",0.119428432248112
+"194","Horsham",1920,910,"rental (private)",0.321554770318021
+"195","Hinckley and Bosworth",1341,1176,"rental (private)",0.467222884386174
+"196","Hillingdon",8935,1633,"rental (private)",0.154523088569266
+"197","High Peak",958,710,"rental (private)",0.425659472422062
+"198","Hertsmere",2303,553,"rental (private)",0.193627450980392
+"199","Herefordshire, County of",2928,2984,"rental (private)",0.504736129905277
+"200","Havering",5010,1286,"rental (private)",0.20425667090216
+"201","Havant",1838,787,"rental (private)",0.299809523809524
+"202","Hastings",4622,1268,"rental (private)",0.21528013582343
+"203","Hartlepool",1263,679,"rental (private)",0.349639546858908
+"204","Hart",1499,564,"rental (private)",0.273388269510422
+"205","Harrow",10566,891,"rental (private)",0.0777690494893951
+"206","Harrogate",2315,2319,"rental (private)",0.500431592576608
+"207","Harlow",1727,427,"rental (private)",0.198235840297122
+"208","Haringey",15590,1037,"rental (private)",0.0623684368797739
+"209","Harborough",1191,854,"rental (private)",0.41760391198044
+"210","Hammersmith and Fulham",13415,1301,"rental (private)",0.0884071758630063
+"211","Hambleton",843,1725,"rental (private)",0.671728971962617
+"212","Halton",1991,892,"rental (private)",0.309399930627818
+"213","Hackney",14541,967,"rental (private)",0.0623549135929843
+"214","Gwynedd",2095,1704,"rental (private)",0.448539089234009
+"215","Guildford",3516,1267,"rental (private)",0.264896508467489
+"216","Greenwich",9364,1304,"rental (private)",0.122234720659918
+"217","Great Yarmouth",3016,832,"rental (private)",0.216216216216216
+"218","Gravesham",2566,738,"rental (private)",0.223365617433414
+"219","Gosport",2098,1051,"rental (private)",0.333756748174024
+"220","Gloucester",3176,1410,"rental (private)",0.30745747928478
+"221","Gedling",1927,1358,"rental (private)",0.413394216133942
+"222","Gateshead",3468,989,"rental (private)",0.221898137760826
+"223","Fylde",1308,1004,"rental (private)",0.434256055363322
+"224","Forest of Dean",1028,664,"rental (private)",0.392434988179669
+"225","Folkestone and Hythe",2801,832,"rental (private)",0.229011835948252
+"226","Flintshire",1858,1077,"rental (private)",0.366950596252129
+"227","Fenland",2257,913,"rental (private)",0.28801261829653
+"228","Fareham",1697,715,"rental (private)",0.296434494195688
+"229","Exeter",4694,1925,"rental (private)",0.290829430427557
+"230","Erewash",2107,1118,"rental (private)",0.346666666666667
+"231","Epsom and Ewell",1735,414,"rental (private)",0.192647743136342
+"232","Epping Forest",2495,740,"rental (private)",0.228748068006182
+"233","Enfield",13631,2387,"rental (private)",0.149019852665751
+"234","Elmbridge",3246,1146,"rental (private)",0.260928961748634
+"235","Eden",478,922,"rental (private)",0.658571428571429
+"236","Eastleigh",2026,706,"rental (private)",0.258418740849195
+"237","Eastbourne",4055,1126,"rental (private)",0.217332561281606
+"238","East Suffolk",5585,2836,"rental (private)",0.336777104856905
+"239","East Staffordshire",2295,1394,"rental (private)",0.377880184331797
+"240","East Riding of Yorkshire",5437,4370,"rental (private)",0.445600081574386
+"241","East Lindsey",3154,2933,"rental (private)",0.48184655823887
+"242","East Hertfordshire",3202,1305,"rental (private)",0.289549589527402
+"243","East Hampshire",1588,1078,"rental (private)",0.404351087771943
+"244","East Devon",1968,1654,"rental (private)",0.456653782440641
+"245","East Cambridgeshire",1418,889,"rental (private)",0.385348938014738
+"246","Ealing",17915,1765,"rental (private)",0.0896849593495935
+"247","Dudley",3323,2056,"rental (private)",0.382227179773192
+"248","Dover",2605,930,"rental (private)",0.263083451202263
+"249","Dorset",5926,4153,"rental (private)",0.412044845718821
+"250","Doncaster",5873,2955,"rental (private)",0.334730403262347
+"251","Derbyshire Dales",646,1059,"rental (private)",0.621114369501466
+"252","Derby",7080,3330,"rental (private)",0.319884726224784
+"253","Denbighshire",2311,1571,"rental (private)",0.404688304997424
+"254","Dartford",2388,776,"rental (private)",0.245259165613148
+"255","Darlington",1632,1479,"rental (private)",0.475409836065574
+"256","Dacorum",2456,977,"rental (private)",0.284590736964754
+"257","Croydon",14647,1650,"rental (private)",0.101245628029699
+"258","Crawley",2478,552,"rental (private)",0.182178217821782
+"259","Craven",533,880,"rental (private)",0.62278839348903
+"260","Coventry",9408,3297,"rental (private)",0.259504132231405
+"261","County Durham",8505,4340,"rental (private)",0.337874659400545
+"262","Cotswold",1186,1852,"rental (private)",0.609611586570112
+"263","Cornwall",11608,10321,"rental (private)",0.470655296639154
+"264","Copeland",370,383,"rental (private)",0.50863213811421
+"265","Conwy",2367,1611,"rental (private)",0.404977375565611
+"266","Colchester",5312,2438,"rental (private)",0.31458064516129
+"267","City of London",1105,166,"rental (private)",0.130605822187254
+"268","Chorley",1351,924,"rental (private)",0.406153846153846
+"269","Chichester",2648,1567,"rental (private)",0.371767497034401
+"270","Chesterfield",1564,1026,"rental (private)",0.396138996138996
+"271","Cheshire West and Chester",4863,3042,"rental (private)",0.384819734345351
+"272","Cheshire East",6026,4019,"rental (private)",0.400099552015928
+"273","Cherwell",3775,1899,"rental (private)",0.334684525907649
+"274","Cheltenham",3745,1701,"rental (private)",0.312339331619537
+"275","Chelmsford",2531,1342,"rental (private)",0.346501420087787
+"276","Charnwood",3984,1790,"rental (private)",0.310010391409768
+"277","Ceredigion",2066,1709,"rental (private)",0.452715231788079
+"278","Central Bedfordshire",4768,2167,"rental (private)",0.312472963229993
+"279","Castle Point",1306,456,"rental (private)",0.258796821793417
+"280","Carmarthenshire",2887,1495,"rental (private)",0.341168416248288
+"281","Carlisle",1089,1134,"rental (private)",0.510121457489879
+"282","Cardiff",15580,3637,"rental (private)",0.189259509809023
+"283","Canterbury",4660,1480,"rental (private)",0.241042345276873
+"284","Cannock Chase",1140,918,"rental (private)",0.446064139941691
+"285","Camden",16952,1270,"rental (private)",0.0696959719020964
+"286","Cambridge",5104,1540,"rental (private)",0.231788079470199
+"287","Calderdale",3611,2245,"rental (private)",0.383367486338798
+"288","Caerphilly",2983,707,"rental (private)",0.19159891598916
+"289","Bury",3402,1594,"rental (private)",0.319055244195356
+"290","Burnley",2714,1317,"rental (private)",0.326717935996031
+"291","Buckinghamshire",7453,3932,"rental (private)",0.345366710584102
+"292","Broxtowe",2274,1216,"rental (private)",0.348424068767908
+"293","Broxbourne",2065,640,"rental (private)",0.236598890942699
+"294","Bromsgrove",827,609,"rental (private)",0.424094707520891
+"295","Bromley",6376,1128,"rental (private)",0.150319829424307
+"296","Broadland",1545,1143,"rental (private)",0.425223214285714
+"297","Bristol, City of",17960,5623,"rental (private)",0.238434465504813
+"298","Brighton and Hove",16028,3308,"rental (private)",0.171079851055027
+"299","Bridgend",2439,982,"rental (private)",0.287050570008769
+"300","Brentwood",1524,612,"rental (private)",0.286516853932584
+"301","Brent",17147,1485,"rental (private)",0.0797015886646629
+"302","Breckland",2241,1947,"rental (private)",0.464899713467049
+"303","Braintree",2244,1419,"rental (private)",0.387387387387387
+"304","Bradford",8911,4970,"rental (private)",0.358043368633384
+"305","Bracknell Forest",1956,695,"rental (private)",0.262165220671445
+"306","Bournemouth, Christchurch and Poole",15626,3558,"rental (private)",0.1854670558799
+"307","Boston",1827,951,"rental (private)",0.342332613390929
+"308","Bolton",5468,2253,"rental (private)",0.291801580106204
+"309","Bolsover",1287,903,"rental (private)",0.412328767123288
+"310","Blaenau Gwent",1243,232,"rental (private)",0.15728813559322
+"311","Blackpool",6209,2478,"rental (private)",0.285253827558421
+"312","Blackburn with Darwen",1932,1044,"rental (private)",0.350806451612903
+"313","Blaby",991,647,"rental (private)",0.394993894993895
+"314","Birmingham",29064,6806,"rental (private)",0.189740730415389
+"315","Bexley",4042,1121,"rental (private)",0.217121828394344
+"316","Bedford",4423,1590,"rental (private)",0.264427074671545
+"317","Bath and North East Somerset",4975,3064,"rental (private)",0.381141933076253
+"318","Bassetlaw",2065,1132,"rental (private)",0.35408195182984
+"319","Basingstoke and Deane",3595,1539,"rental (private)",0.299766264121543
+"320","Basildon",2778,926,"rental (private)",0.25
+"321","Barrow-in-Furness",1166,863,"rental (private)",0.42533267619517
+"322","Barnsley",4211,2130,"rental (private)",0.335909162592651
+"323","Barnet",16767,1985,"rental (private)",0.105855375426621
+"324","Barking and Dagenham",6261,1224,"rental (private)",0.163527054108216
+"325","Babergh",1264,915,"rental (private)",0.419917393299679
+"326","Ashford",2002,813,"rental (private)",0.288809946714032
+"327","Ashfield",2005,1075,"rental (private)",0.349025974025974
+"328","Arun",3667,1646,"rental (private)",0.309806135893092
+"329","Amber Valley",1735,1279,"rental (private)",0.42435301924353
+"330","Allerdale",499,595,"rental (private)",0.543875685557587
+"331","Adur",842,353,"rental (private)",0.295397489539749
