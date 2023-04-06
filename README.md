@@ -4,6 +4,17 @@
 
 In April 2022, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/newsbeat-65136313) that six out of 10 recently inspected UK rental homes failed to meet a proposed new standard for energy efficiency.
 
+The project involved analysing over 94 million recommendations from 24 million inspections in England and Wales up to the end of 2022, as well as a further 1.5 million inspections in Scotland, and found:
+
+* Out of 1.9 million lettings given EPC ratings in England and Wales over the last five full years (2018-22), 1.1 million, or 57%, were graded below a C.
+* Some 5% of privately rented properties did not have the potential to reach grade ‘C’, according to assessors.
+* A quarter of renters were using portable heaters as a secondary source of warmth in their homes.
+* Insulation was the most frequently recommended improvement measure for private rental properties, making up 35% of all recommendations.
+* Inspections of rental properties in the last five years found, on average, occupants could save almost a third (32%) on their current heating costs if their landlords made all the recommended improvements.
+* London boroughs and coastal areas made up 9 of the top 10 local authorities by proportion of properties that did not have the potential to reach grade C. 
+
+
+
 ## Background and briefing
 
 A [full briefing pack on the story can be found here](https://docs.google.com/document/d/15bqbvfRrsB4Wl65fzJNGQnNTf-jsUH_qthGZ1cUCPSw/edit#heading=h.eksa1piu3vo).
@@ -14,8 +25,9 @@ A [full briefing pack on the story can be found here](https://docs.google.com/do
 * England and Wales: [Open data on Energy Performance Certificates](https://epc.opendatacommunities.org)
 * Scotland: [Domestic Energy Performance Certificates](https://statistics.gov.scot/data/domestic-energy-performance-certificates)
 * Northern Ireland: [EPC data](https://docs.google.com/spreadsheets/d/1agvRoD5CbjKUpSm_XiyI81OC65o8S71OFJzeYMoNqM0/edit#gid=0) ([XLSX](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/data/Northern%20Ireland%20EPC%20data.xlsx)) via [a Freedom of Information request](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/data/Northern%20Ireland%20FOI%20response.pdf).
+* The ONS provide data on [Energy efficiency of Housing, England and Wales, country and region](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/energyefficiencyofhousingenglandandwalescountryandregion) which was used for contextual data on the proportion of property types covered by the EPCs, and for methodological guidance.
 
-Data on energy performance certificates (EPCs) is provided in a series of separate CSV files which was combined for analysis. For the England and Wales data, this was done [using an R script](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/energyeff01compile.md). For the Scotland data this was done using `cat` in command line. 
+Full data on energy performance certificates (EPCs) is provided in a series of separate CSV files which was combined for analysis. For the England and Wales data, this was attempted [using an R script](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/energyeff01compile.md) and [command line](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/combineepc.sh). In addition, a [Python Colab notebook was written](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/epc_zip_file.ipynb) to unzip the files where there wasn't enough capacity on the computer. For the Scotland data data was combined using `cat` in command line. 
 
 The resulting files were too large for data analysis in spreadsheets, R or Python, so they were uploaded to Google BigQuery for initial analysis and filtering [using SQL queries documented here](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/Energy%20efficiency%20(private%20rental)_%20BigQuery%20SQL%20queries.pdf).
 
