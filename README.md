@@ -57,7 +57,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lichfield Live: [ Figures reveal more than half of rental properties in Lichfield and Burntwood would fail to meet proposed new energy efficiency standard](https://lichfieldlive.co.uk/2023/04/06/figures-reveal-more-than-half-of-rental-properties-in-lichfield-and-burntwood-would-fail-to-meet-proposed-new-energy-efficiency-standard/)
 * The Lochside Press: [74% of private rentals in Argyll and Bute would fail new energy standard](https://thelochsidepress.com/2023/04/06/74-of-private-rentals-in-argyll-and-bute-would-fail-new-energy-standard/)
 * This is Money: [Is YOUR town one of these 10 where homes leak the most heat? Areas with the most - and least - energy efficient properties are revealed](https://www.thisismoney.co.uk/money/bills/article-11937617/The-areas-energy-efficient-homes-cost-heat.html)
-
+* The Scotsman: [Over half of rented properties in Scotland set to flout new energy efficiency rules](https://www.scotsman.com/news/environment/over-half-of-rented-properties-in-scotland-set-to-flout-new-energy-efficiency-rules-4095458)
 
 
 ## Related repos
