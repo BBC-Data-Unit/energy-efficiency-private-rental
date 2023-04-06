@@ -10,12 +10,14 @@ A [full briefing pack on the story can be found here](https://docs.google.com/do
 
 ## Get the data
 
+* Shared spreadsheet: [Energy efficiency in private rented accommodation](https://docs.google.com/spreadsheets/d/1-iCVMDG3DNkxoIVWmFQXlAOO5l4GYSCk9B0nESAK97g/edit?usp=sharing) (also as [an XLSX file here](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/data/SDU_Energy%20efficiency%20in%20private%20rented%20accommodation%20FOR%20SHARING.xlsx))
 * England and Wales: [Open data on Energy Performance Certificates](https://epc.opendatacommunities.org)
 * Scotland: [Domestic Energy Performance Certificates](https://statistics.gov.scot/data/domestic-energy-performance-certificates)
+* Northern Ireland: [EPC data](https://docs.google.com/spreadsheets/d/1agvRoD5CbjKUpSm_XiyI81OC65o8S71OFJzeYMoNqM0/edit#gid=0) ([XLSX](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/data/Northern%20Ireland%20EPC%20data.xlsx)) via [a Freedom of Information request](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/data/Northern%20Ireland%20FOI%20response.pdf).
 
-Data is provided in a series of separate CSV files which must be combined for analysis. For the England and Wales data, this was done [using an R script](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/energyeff01compile.md). For the Scotland data this was done using `cat` in command line. 
+Data on energy performance certificates (EPCs) is provided in a series of separate CSV files which was combined for analysis. For the England and Wales data, this was done [using an R script](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/energyeff01compile.md). For the Scotland data this was done using `cat` in command line. 
 
-The resulting files were too large for data analysis in either spreadsheets, R or Python, so they were uploaded to Google BigQuery for initial analysis and filtering [using SQL queries documented here](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/Energy%20efficiency%20(private%20rental)_%20BigQuery%20SQL%20queries.pdf).
+The resulting files were too large for data analysis in spreadsheets, R or Python, so they were uploaded to Google BigQuery for initial analysis and filtering [using SQL queries documented here](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/blob/main/scripts/Energy%20efficiency%20(private%20rental)_%20BigQuery%20SQL%20queries.pdf).
 
 The results of that initial analysis were further analysed using R notebooks in the [scripts folder](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental/tree/main/scripts).
 
