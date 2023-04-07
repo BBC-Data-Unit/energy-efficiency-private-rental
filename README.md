@@ -58,6 +58,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Lochside Press: [74% of private rentals in Argyll and Bute would fail new energy standard](https://thelochsidepress.com/2023/04/06/74-of-private-rentals-in-argyll-and-bute-would-fail-new-energy-standard/)
 * This is Money: [Is YOUR town one of these 10 where homes leak the most heat? Areas with the most - and least - energy efficient properties are revealed](https://www.thisismoney.co.uk/money/bills/article-11937617/The-areas-energy-efficient-homes-cost-heat.html)
 * The Scotsman: [Over half of rented properties in Scotland set to flout new energy efficiency rules](https://www.scotsman.com/news/environment/over-half-of-rented-properties-in-scotland-set-to-flout-new-energy-efficiency-rules-4095458)
+* We Love Stornoway: ['Giant green-rules fail' for island renters](https://welovestornoway.com/index.php/home/welovesyhomepage-2/28293-isles-private-rentals-in-massive-energy-fail)
 
 
 ## Related repos
