@@ -54,6 +54,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Bristol Cable: [Revealed: Over half of Bristol’s rental homes would fail to meet proposed new energy efficiency standard](https://thebristolcable.org/2023/04/bristol-rental-homes-fail-energy-efficiency-standard/)
 * Daily Express: [Could you be paying more for your bills? Areas with worst energy efficient homes MAPPED](https://www.express.co.uk/news/uk/1754377/energy-efficiency-map-heating-bills-spt)
+* Hampshire Chronicle: [Half of rented homes in Winchester would fail to meet energy standard](https://www.hampshirechronicle.co.uk/news/23461361.half-rented-homes-winchester-fail-meet-energy-standard/)
 * Lichfield Live: [ Figures reveal more than half of rental properties in Lichfield and Burntwood would fail to meet proposed new energy efficiency standard](https://lichfieldlive.co.uk/2023/04/06/figures-reveal-more-than-half-of-rental-properties-in-lichfield-and-burntwood-would-fail-to-meet-proposed-new-energy-efficiency-standard/)
 * The Lochside Press: [74% of private rentals in Argyll and Bute would fail new energy standard](https://thelochsidepress.com/2023/04/06/74-of-private-rentals-in-argyll-and-bute-would-fail-new-energy-standard/)
 * This is Money: [Is YOUR town one of these 10 where homes leak the most heat? Areas with the most - and least - energy efficient properties are revealed](https://www.thisismoney.co.uk/money/bills/article-11937617/The-areas-energy-efficient-homes-cost-heat.html)
